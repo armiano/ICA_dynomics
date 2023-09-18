@@ -1,0 +1,2377 @@
+
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.22 seconds elapsed
+
+Running ICA...
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.29 seconds elapsed
+
+Running ICA...
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.30 seconds elapsed
+
+Running ICA...
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.31 seconds elapsed
+
+Running ICA...
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.30 seconds elapsed
+
+Running ICA...
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.34 seconds elapsed
+
+Running ICA...
+Completed run 1 of 100 on Processor 0
+0.15 seconds elapsed
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.37 seconds elapsed
+
+Running ICA...
+Data: 2293 genes x 168 samples
+Found 5 dimensions from PCA
+0.35 seconds elapsed
+
+Running ICA...
+Completed run 1 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 1 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 1 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 1 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 1 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 1 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 1 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 2 of 100 on Processor 0
+0.19 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 3 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 4 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 5 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.21 seconds elapsed
+Completed run 6 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 7 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.06 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 8 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 9 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 10 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 11 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 12 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 13 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 14 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 15 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 16 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 17 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 18 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 19 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 20 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 21 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 22 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.06 seconds elapsed
+Completed run 23 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 24 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 25 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.06 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 26 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 27 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 28 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 29 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 30 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 31 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 32 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 33 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 34 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 35 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 36 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 37 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.20 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 41 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 41 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 38 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 39 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 41 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.20 seconds elapsed
+Completed run 41 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 41 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 43 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 43 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 41 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 41 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 40 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 43 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 41 of 100 on Processor 0
+Completed run 43 of 100 on Processor 0
+0.08 seconds elapsed
+0.11 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 43 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 43 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 42 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 43 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 43 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 44 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 45 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 49 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 49 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 46 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 50 of 100 on Processor 0Completed run 49 of 100 on Processor 0
+0.12 seconds elapsed
+
+0.10 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 50 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 47 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 49 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 49 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 50 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 49 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 48 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 50 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 49 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 50 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 50 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 50 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 49 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.06 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 50 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 51 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 52 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 53 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 54 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 55 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 56 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 57 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 58 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 59 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 60 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 61 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 62 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 63 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 64 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.20 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 65 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.22 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 66 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 67 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 68 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 69 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 70 of 100 on Processor 0
+0.20 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.06 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 71 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 78 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 72 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.19 seconds elapsed
+Completed run 78 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 78 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 73 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 78 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 78 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 74 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 81 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 78 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 75 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 78 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 81 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 81 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 81 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 76 of 100 on Processor 0
+0.20 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 81 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 77 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 81 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 78 of 100 on Processor 0
+Completed run 81 of 100 on Processor 0
+0.08 seconds elapsed
+0.08 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 79 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 80 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 88 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 81 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 88 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 82 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 88 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 83 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 88 of 100 on Processor 0
+Completed run 91 of 100 on Processor 0
+0.10 seconds elapsed
+0.08 seconds elapsed
+Completed run 91 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 84 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 88 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 88 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 88 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 91 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 85 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 86 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.20 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 91 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 87 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 91 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 91 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 91 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 88 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 89 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 90 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.17 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 91 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.08 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 92 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 93 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.18 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.15 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.16 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 94 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 95 of 100 on Processor 0
+0.11 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.06 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.12 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 96 of 100 on Processor 0
+0.10 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.13 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.06 seconds elapsed
+Completed run 97 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.14 seconds elapsed
+Completed run 98 of 100 on Processor 0
+0.09 seconds elapsed
+Completed run 99 of 100 on Processor 0
+0.07 seconds elapsed
+Completed run 100 of 100 on Processor 0
+0.07 seconds elapsed
+                0    ...       499
+YGL120C   -0.014204  ...  0.002433
+YPL137C   -0.013171  ...  0.010988
+YOR267C   -0.005024  ...  0.004394
+YNL297C   -0.016913  ...  0.004333
+YFR016C   -0.002137  ... -0.002754
+YMR186W    0.063678  ... -0.143408
+YDR335W   -0.010489  ...  0.002939
+YDR138W   -0.008741  ...  0.000302
+YKL101W   -0.010769  ...  0.001785
+YML091C   -0.009650  ...  0.005638
+YGL086W   -0.007726  ... -0.000078
+YJL095W   -0.007981  ...  0.002612
+YDL234C   -0.003986  ...  0.002219
+YJR137C   -0.007902  ...  0.077621
+YMR246W   -0.004546  ... -0.105341
+YJR041C    0.011325  ... -0.006580
+YMR078C   -0.004974  ...  0.000127
+YCR081W   -0.005509  ...  0.031340
+YML016C   -0.007327  ...  0.005427
+YML117W   -0.001557  ...  0.003998
+YER151C    0.000506  ... -0.007161
+YHR077C    0.000684  ... -0.000480
+YNL082W   -0.004973  ...  0.005356
+YOL087C   -0.000087  ...  0.006083
+YOR269W    0.000578  ...  0.049837
+YHR036W    0.001675  ...  0.006079
+YOL112W   -0.002830  ...  0.000664
+YDL105W   -0.010200  ... -0.004926
+YNR015W   -0.016658  ...  0.000183
+YPR119W   -0.010903  ...  0.002527
+...             ...  ...       ...
+YDL042C    0.000487  ...  0.001989
+YCR034W    0.002840  ... -0.001835
+YDR343C   -0.002817  ...  0.008427
+YMR243C    0.022232  ...  0.006201
+YDR477W    0.002497  ...  0.003796
+YIL022W   -0.003561  ...  0.009972
+YCL040W    0.011069  ...  0.008058
+YDR028C    0.011794  ...  0.000572
+YHR132W-A -0.003449  ...  0.009455
+YJL178C    0.086020  ...  0.083178
+YJR085C   -0.000045  ...  0.004651
+YOR232W    0.033804  ...  0.016908
+YNL143C    0.002184  ...  0.005134
+YBR009C    0.004902  ...  0.000785
+YML106W    0.008353  ...  0.012026
+YGL211W    0.071673  ...  0.049339
+YDR510W    0.006213  ...  0.009754
+YEL008W    0.004799  ...  0.011162
+YDR454C    0.026010  ... -0.008584
+YOR152C    0.000515  ...  0.007310
+YDL053C   -0.005031  ...  0.001200
+YKR007W   -0.000352  ...  0.015813
+YOL038W    0.003112  ...  0.002992
+YNL108C    0.002194  ... -0.001681
+YLR186W    0.006759  ...  0.012772
+YPR134W    0.005404  ... -0.001427
+YMR242C    0.004073  ...  0.003663
+YOR293W    0.010750  ... -0.006467
+YFL017C    0.004469  ...  0.004846
+YNL245C    0.016137  ... -0.004423
+
+[2293 rows x 500 columns]
+                0    ...       499
+YGL120C   -0.003774  ...  0.014263
+YPL137C    0.018107  ...  0.013079
+YOR267C    0.001371  ...  0.005072
+YNL297C    0.004238  ...  0.016910
+YFR016C   -0.001359  ...  0.002147
+YMR186W   -0.167141  ... -0.062862
+YDR335W    0.004276  ...  0.010493
+YDR138W    0.006335  ...  0.008702
+YKL101W    0.003576  ...  0.010736
+YML091C    0.011804  ...  0.009578
+YGL086W    0.010004  ...  0.007669
+YJL095W    0.000813  ...  0.007994
+YDL234C    0.011162  ...  0.003912
+YJR137C    0.029840  ...  0.008130
+YMR246W   -0.079890  ...  0.004582
+YJR041C    0.009677  ... -0.011441
+YMR078C    0.008174  ...  0.004910
+YCR081W    0.022188  ...  0.005487
+YML016C    0.011610  ...  0.007275
+YML117W   -0.000420  ...  0.001597
+YER151C    0.001461  ... -0.000548
+YHR077C   -0.014628  ... -0.000517
+YNL082W   -0.006434  ...  0.005063
+YOL087C    0.007909  ...  0.000102
+YOR269W    0.008231  ... -0.000261
+YHR036W    0.001193  ... -0.001649
+YOL112W    0.006777  ...  0.002794
+YDL105W    0.006772  ...  0.010126
+YNR015W    0.010009  ...  0.016580
+YPR119W    0.013154  ...  0.010792
+...             ...  ...       ...
+YDL042C    0.006255  ... -0.000497
+YCR034W    0.006104  ... -0.002934
+YDR343C    0.005779  ...  0.002820
+YMR243C    0.027659  ... -0.022383
+YDR477W    0.005314  ... -0.002541
+YIL022W   -0.001459  ...  0.003634
+YCL040W    0.001275  ... -0.011027
+YDR028C    0.001927  ... -0.011827
+YHR132W-A  0.002161  ...  0.003496
+YJL178C    0.135925  ... -0.086857
+YJR085C    0.001263  ...  0.000077
+YOR232W    0.013497  ... -0.033775
+YNL143C    0.015090  ... -0.002211
+YBR009C    0.002367  ... -0.004984
+YML106W    0.006992  ... -0.008373
+YGL211W    0.052604  ... -0.071779
+YDR510W    0.012937  ... -0.006268
+YEL008W    0.007703  ... -0.004818
+YDR454C    0.014201  ... -0.026253
+YOR152C    0.003344  ... -0.000466
+YDL053C    0.006135  ...  0.005022
+YKR007W    0.012521  ...  0.000367
+YOL038W   -0.003446  ... -0.003059
+YNL108C    0.007700  ... -0.002269
+YLR186W    0.015549  ... -0.006781
+YPR134W    0.014476  ... -0.005537
+YMR242C    0.012398  ... -0.004181
+YOR293W    0.015634  ... -0.010925
+YFL017C    0.007557  ... -0.004538
+YNL245C    0.004395  ... -0.016257
+
+[2293 rows x 500 columns]
+                0    ...       499
+YGL120C    0.003209  ... -0.010409
+YPL137C   -0.018423  ... -0.013869
+YOR267C   -0.001628  ... -0.000698
+YNL297C   -0.004127  ...  0.000770
+YFR016C    0.000451  ... -0.004803
+YMR186W    0.155658  ...  0.062055
+YDR335W   -0.004889  ... -0.003998
+YDR138W   -0.006969  ... -0.000632
+YKL101W   -0.004055  ... -0.011295
+YML091C   -0.012162  ... -0.009251
+YGL086W   -0.010871  ...  0.003529
+YJL095W   -0.001183  ... -0.008048
+YDL234C   -0.011767  ... -0.003256
+YJR137C   -0.022329  ... -0.010759
+YMR246W    0.071691  ...  0.023639
+YJR041C   -0.010620  ...  0.005476
+YMR078C   -0.008809  ... -0.002513
+YCR081W   -0.020146  ... -0.021307
+YML016C   -0.011686  ...  0.001597
+YML117W    0.000611  ... -0.001423
+YER151C   -0.002523  ...  0.003053
+YHR077C    0.014532  ...  0.003416
+YNL082W    0.006924  ... -0.006168
+YOL087C   -0.007880  ...  0.008320
+YOR269W   -0.005224  ... -0.019201
+YHR036W   -0.001272  ... -0.013085
+YOL112W   -0.007441  ... -0.001152
+YDL105W   -0.007973  ...  0.001336
+YNR015W   -0.010948  ... -0.003962
+YPR119W   -0.014159  ... -0.014807
+...             ...  ...       ...
+YDL042C   -0.005575  ...  0.020909
+YCR034W   -0.005451  ...  0.008278
+YDR343C   -0.004789  ...  0.003730
+YMR243C   -0.027513  ...  0.021295
+YDR477W   -0.004492  ...  0.001985
+YIL022W    0.003336  ...  0.009333
+YCL040W    0.000260  ...  0.008797
+YDR028C   -0.001370  ...  0.001208
+YHR132W-A -0.000738  ...  0.008331
+YJL178C   -0.128485  ... -0.023373
+YJR085C   -0.000216  ...  0.012780
+YOR232W   -0.011647  ...  0.013576
+YNL143C   -0.014337  ...  0.034176
+YBR009C   -0.001959  ... -0.015312
+YML106W   -0.005645  ... -0.009567
+YGL211W   -0.048548  ...  0.005955
+YDR510W   -0.011990  ...  0.002383
+YEL008W   -0.006787  ... -0.009718
+YDR454C   -0.015031  ... -0.011924
+YOR152C   -0.002450  ...  0.012491
+YDL053C   -0.005833  ...  0.018877
+YKR007W   -0.010777  ...  0.013053
+YOL038W    0.004508  ...  0.009896
+YNL108C   -0.007372  ...  0.013918
+YLR186W   -0.014051  ...  0.018609
+YPR134W   -0.014533  ...  0.011015
+YMR242C   -0.011810  ...  0.002136
+YOR293W   -0.015900  ...  0.017302
+YFL017C   -0.006566  ... -0.000211
+YNL245C   -0.004796  ... -0.014303
+
+[2293 rows x 500 columns]
+                0    ...       499
+YGL120C   -0.001417  ... -0.016286
+YPL137C    0.007242  ... -0.019307
+YOR267C    0.001889  ... -0.008438
+YNL297C   -0.000511  ...  0.000757
+YFR016C    0.005699  ... -0.011620
+YMR186W    0.035069  ...  0.010339
+YDR335W    0.005225  ... -0.011318
+YDR138W    0.007671  ... -0.005431
+YKL101W    0.002115  ... -0.012887
+YML091C    0.005937  ... -0.012489
+YGL086W    0.012708  ... -0.004227
+YJL095W    0.000661  ... -0.011936
+YDL234C    0.009848  ... -0.008541
+YJR137C   -0.055057  ...  0.000175
+YMR246W    0.036908  ...  0.021312
+YJR041C    0.016082  ...  0.001164
+YMR078C    0.008675  ... -0.006493
+YCR081W   -0.012521  ... -0.020188
+YML016C    0.006205  ... -0.001873
+YML117W   -0.002600  ... -0.003650
+YER151C    0.010916  ... -0.002093
+YHR077C   -0.006346  ... -0.003712
+YNL082W   -0.009930  ... -0.006059
+YOL087C    0.005552  ...  0.000333
+YOR269W   -0.028421  ... -0.037115
+YHR036W   -0.001930  ... -0.017700
+YOL112W    0.008653  ... -0.007632
+YDL105W    0.013307  ... -0.004221
+YNR015W    0.010642  ... -0.008731
+YPR119W    0.010894  ... -0.019819
+...             ...  ...       ...
+YDL042C    0.002441  ...  0.022096
+YCR034W    0.000228  ...  0.018236
+YDR343C   -0.005126  ...  0.006797
+YMR243C    0.020726  ...  0.012946
+YDR477W   -0.003495  ...  0.008559
+YIL022W   -0.015410  ...  0.017809
+YCL040W   -0.009493  ...  0.013690
+YDR028C   -0.002105  ...  0.005937
+YHR132W-A -0.009816  ...  0.013034
+YJL178C    0.010422  ...  0.003328
+YJR085C   -0.005456  ...  0.016453
+YOR232W   -0.002551  ...  0.009033
+YNL143C    0.009669  ...  0.030199
+YBR009C   -0.005130  ... -0.005620
+YML106W   -0.009551  ... -0.003598
+YGL211W    0.000474  ... -0.003725
+YDR510W   -0.000286  ...  0.004378
+YEL008W   -0.005914  ... -0.007383
+YDR454C    0.015354  ... -0.007053
+YOR152C   -0.003236  ...  0.011233
+YDL053C    0.004544  ...  0.017767
+YKR007W   -0.005851  ...  0.014828
+YOL038W   -0.008374  ...  0.014784
+YNL108C    0.005019  ...  0.018019
+YLR186W    0.000099  ...  0.019002
+YPR134W    0.011604  ...  0.012428
+YMR242C    0.002555  ...  0.007911
+YOR293W    0.016347  ...  0.019952
+YFL017C   -0.004032  ...  0.008381
+YNL245C    0.004515  ... -0.010121
+
+[2293 rows x 500 columns]
+                0    ...       499
+YGL120C   -0.010196  ...  0.014285
+YPL137C   -0.020579  ...  0.012835
+YOR267C   -0.012802  ...  0.005031
+YNL297C   -0.001284  ...  0.016864
+YFR016C   -0.014530  ...  0.002127
+YMR186W   -0.042438  ... -0.061176
+YDR335W   -0.016273  ...  0.010410
+YDR138W   -0.013790  ...  0.008600
+YKL101W   -0.008091  ...  0.010679
+YML091C   -0.013932  ...  0.009417
+YGL086W   -0.020818  ...  0.007508
+YJL095W   -0.008705  ...  0.007968
+YDL234C   -0.017315  ...  0.003748
+YJR137C    0.043277  ...  0.007948
+YMR246W   -0.006508  ...  0.005396
+YJR041C   -0.016581  ... -0.011595
+YMR078C   -0.013982  ...  0.004785
+YCR081W   -0.000462  ...  0.005257
+YML016C   -0.011272  ...  0.007122
+YML117W   -0.001741  ...  0.001600
+YER151C   -0.013962  ... -0.000601
+YHR077C   -0.001804  ... -0.000356
+YNL082W    0.006127  ...  0.005154
+YOL087C   -0.014115  ... -0.000016
+YOR269W   -0.012528  ... -0.000347
+YHR036W   -0.008851  ... -0.001679
+YOL112W   -0.016672  ...  0.002680
+YDL105W   -0.018289  ...  0.010005
+YNR015W   -0.017859  ...  0.016427
+YPR119W   -0.021624  ...  0.010596
+...             ...  ...       ...
+YDL042C    0.004577  ... -0.000556
+YCR034W    0.014968  ... -0.002970
+YDR343C    0.007480  ...  0.002778
+YMR243C   -0.023820  ... -0.022748
+YDR477W    0.011178  ... -0.002573
+YIL022W    0.024870  ...  0.003716
+YCL040W    0.016069  ... -0.010999
+YDR028C    0.008663  ... -0.011829
+YHR132W-A  0.014862  ...  0.003513
+YJL178C    0.002420  ... -0.088339
+YJR085C    0.012078  ...  0.000094
+YOR232W   -0.001462  ... -0.033922
+YNL143C   -0.005455  ... -0.002390
+YBR009C    0.012569  ... -0.004982
+YML106W    0.011275  ... -0.008419
+YGL211W   -0.018087  ... -0.072387
+YDR510W    0.001489  ... -0.006404
+YEL008W    0.003368  ... -0.004890
+YDR454C   -0.008114  ... -0.026442
+YOR152C    0.003267  ... -0.000491
+YDL053C   -0.000905  ...  0.004953
+YKR007W    0.007582  ...  0.000254
+YOL038W    0.016050  ... -0.002981
+YNL108C    0.004780  ... -0.002346
+YLR186W    0.002998  ... -0.006941
+YPR134W   -0.005339  ... -0.005714
+YMR242C    0.004732  ... -0.004309
+YOR293W   -0.005005  ... -0.011119
+YFL017C    0.013426  ... -0.004590
+YNL245C   -0.001074  ... -0.016314
+
+[2293 rows x 500 columns]
+                0    ...       499
+YGL120C   -0.015979  ... -0.011675
+YPL137C   -0.018404  ... -0.006201
+YOR267C   -0.019119  ... -0.016269
+YNL297C   -0.000767  ... -0.000464
+YFR016C   -0.017131  ... -0.013813
+YMR186W   -0.087909  ... -0.148754
+YDR335W   -0.019138  ... -0.014547
+YDR138W   -0.012574  ... -0.009520
+YKL101W   -0.006644  ... -0.000991
+YML091C   -0.011276  ... -0.003434
+YGL086W   -0.019305  ... -0.016018
+YJL095W   -0.011194  ... -0.006828
+YDL234C   -0.014797  ... -0.008869
+YJR137C    0.018568  ...  0.031084
+YMR246W    0.011119  ... -0.025040
+YJR041C   -0.010134  ... -0.008122
+YMR078C   -0.011120  ... -0.006849
+YCR081W   -0.004942  ...  0.010737
+YML016C   -0.009687  ... -0.006148
+YML117W   -0.005711  ... -0.004519
+YER151C   -0.011783  ... -0.011397
+YHR077C   -0.014730  ... -0.018219
+YNL082W   -0.000370  ...  0.000269
+YOL087C   -0.018729  ... -0.017322
+YOR269W   -0.049061  ... -0.031706
+YHR036W   -0.013893  ... -0.006581
+YOL112W   -0.016690  ... -0.012532
+YDL105W   -0.013961  ... -0.011644
+YNR015W   -0.013701  ... -0.008620
+YPR119W   -0.016715  ... -0.005903
+...             ...  ...       ...
+YDL042C    0.006082  ... -0.000882
+YCR034W    0.024923  ...  0.020483
+YDR343C    0.007148  ...  0.006608
+YMR243C   -0.019119  ... -0.016249
+YDR477W    0.015512  ...  0.014594
+YIL022W    0.022056  ...  0.015652
+YCL040W    0.013283  ...  0.009491
+YDR028C    0.011554  ...  0.010810
+YHR132W-A  0.012365  ...  0.008466
+YJL178C    0.042760  ...  0.090540
+YJR085C    0.011023  ...  0.005315
+YOR232W   -0.009843  ... -0.007996
+YNL143C   -0.004908  ... -0.013065
+YBR009C    0.020160  ...  0.024528
+YML106W    0.011516  ...  0.016548
+YGL211W   -0.028582  ... -0.007995
+YDR510W    0.003562  ...  0.006377
+YEL008W    0.002623  ...  0.008767
+YDR454C    0.008368  ...  0.016689
+YOR152C   -0.001208  ... -0.004654
+YDL053C    0.000111  ... -0.005682
+YKR007W    0.004872  ...  0.003241
+YOL038W    0.014050  ...  0.007903
+YNL108C    0.011702  ...  0.007083
+YLR186W    0.002442  ...  0.000009
+YPR134W    0.003911  ...  0.003330
+YMR242C    0.012798  ...  0.014129
+YOR293W    0.008170  ...  0.005043
+YFL017C    0.019683  ...  0.019847
+YNL245C    0.007163  ...  0.013581
+
+[2293 rows x 500 columns]
+                0    ...       499
+YGL120C   -0.003638  ...  0.000683
+YPL137C    0.018017  ...  0.020440
+YOR267C    0.001424  ...  0.006080
+YNL297C    0.003656  ...  0.005460
+YFR016C   -0.000546  ...  0.000017
+YMR186W   -0.154021  ... -0.173987
+YDR335W    0.004549  ...  0.007254
+YDR138W    0.006700  ...  0.006484
+YKL101W    0.003758  ...  0.003980
+YML091C    0.011875  ...  0.012436
+YGL086W    0.010608  ...  0.010021
+YJL095W    0.000938  ...  0.003289
+YDL234C    0.011624  ...  0.010986
+YJR137C    0.021987  ...  0.057254
+YMR246W   -0.071588  ... -0.109924
+YJR041C    0.010918  ...  0.005006
+YMR078C    0.008652  ...  0.007333
+YCR081W    0.019943  ...  0.031272
+YML016C    0.011451  ...  0.012422
+YML117W   -0.000681  ...  0.002562
+YER151C    0.002520  ... -0.000755
+YHR077C   -0.014575  ... -0.008038
+YNL082W   -0.007073  ... -0.001897
+YOL087C    0.007800  ...  0.011783
+YOR269W    0.004987  ...  0.037716
+YHR036W    0.001280  ...  0.005420
+YOL112W    0.007322  ...  0.007515
+YDL105W    0.007673  ...  0.004418
+YNR015W    0.010470  ...  0.009062
+YPR119W    0.013841  ...  0.012356
+...             ...  ...       ...
+YDL042C    0.005575  ...  0.005382
+YCR034W    0.005600  ... -0.000095
+YDR343C    0.004709  ...  0.007446
+YMR243C    0.028038  ...  0.025984
+YDR477W    0.004596  ...  0.003372
+YIL022W   -0.003413  ...  0.001241
+YCL040W    0.000045  ...  0.003316
+YDR028C    0.001723  ... -0.000154
+YHR132W-A  0.000643  ...  0.004894
+YJL178C    0.130873  ...  0.128646
+YJR085C    0.000216  ...  0.002181
+YOR232W    0.012480  ...  0.019801
+YNL143C    0.014331  ...  0.015349
+YBR009C    0.002174  ... -0.001710
+YML106W    0.005892  ...  0.008778
+YGL211W    0.050311  ...  0.065661
+YDR510W    0.012150  ...  0.013486
+YEL008W    0.006914  ...  0.010186
+YDR454C    0.015820  ...  0.003430
+YOR152C    0.002424  ...  0.006801
+YDL053C    0.005671  ...  0.005747
+YKR007W    0.010729  ...  0.016643
+YOL038W   -0.004409  ... -0.002547
+YNL108C    0.007458  ...  0.003333
+YLR186W    0.014192  ...  0.017736
+YPR134W    0.014693  ...  0.009171
+YMR242C    0.011956  ...  0.008617
+YOR293W    0.016225  ...  0.006989
+YFL017C    0.006739  ...  0.004724
+YNL245C    0.005294  ... -0.001079
+
+[2293 rows x 500 columns]
+                0    ...       499
+YGL120C    0.002358  ...  0.002428
+YPL137C   -0.001458  ...  0.007015
+YOR267C    0.010877  ...  0.002629
+YNL297C    0.001140  ...  0.003641
+YFR016C    0.006953  ... -0.003946
+YMR186W    0.122103  ... -0.129052
+YDR335W    0.008319  ...  0.000708
+YDR138W    0.006834  ... -0.002053
+YKL101W   -0.004803  ...  0.001181
+YML091C   -0.001435  ...  0.003051
+YGL086W    0.013773  ... -0.004034
+YJL095W    0.000601  ...  0.002001
+YDL234C    0.005371  ... -0.001079
+YJR137C   -0.025890  ...  0.077979
+YMR246W    0.024706  ... -0.095051
+YJR041C    0.009311  ... -0.010111
+YMR078C    0.004160  ... -0.002379
+YCR081W   -0.017083  ...  0.029225
+YML016C    0.006016  ...  0.002427
+YML117W    0.002256  ...  0.003840
+YER151C    0.009685  ... -0.009076
+YHR077C    0.012995  ...  0.000869
+YNL082W   -0.004020  ...  0.007226
+YOL087C    0.016769  ...  0.002640
+YOR269W    0.011469  ...  0.047255
+YHR036W   -0.002300  ...  0.005567
+YOL112W    0.008614  ... -0.002129
+YDL105W    0.009475  ... -0.007869
+YNR015W    0.004884  ... -0.002818
+YPR119W   -0.002422  ... -0.000693
+...             ...  ...       ...
+YDL042C    0.011941  ...  0.000284
+YCR034W   -0.009222  ... -0.001295
+YDR343C   -0.002253  ...  0.008176
+YMR243C    0.024303  ... -0.001966
+YDR477W   -0.008626  ...  0.004253
+YIL022W   -0.006224  ...  0.012326
+YCL040W   -0.002114  ...  0.008948
+YDR028C   -0.006738  ...  0.001190
+YHR132W-A -0.001480  ...  0.010217
+YJL178C   -0.064815  ...  0.065319
+YJR085C    0.002983  ...  0.004973
+YOR232W    0.013062  ...  0.013361
+YNL143C    0.027874  ...  0.000096
+YBR009C   -0.024622  ...  0.003025
+YML106W   -0.016031  ...  0.012806
+YGL211W    0.011540  ...  0.038237
+YDR510W   -0.002267  ...  0.007860
+YEL008W   -0.010656  ...  0.010951
+YDR454C   -0.016420  ... -0.010516
+YOR152C    0.009799  ...  0.006237
+YDL053C    0.014237  ... -0.000951
+YKR007W    0.005303  ...  0.013881
+YOL038W   -0.000693  ...  0.004595
+YNL108C    0.003043  ... -0.002975
+YLR186W    0.010671  ...  0.009538
+YPR134W    0.004680  ... -0.004633
+YMR242C   -0.007615  ...  0.002435
+YOR293W    0.006926  ... -0.010121
+YFL017C   -0.013212  ...  0.005407
+YNL245C   -0.016388  ... -0.004141
+
+[2293 rows x 500 columns]
+
+All ICA runs complete!
+14.89 seconds elapsed
+
+All ICA runs complete!
+14.85 seconds elapsed
+
+All ICA runs complete!
+14.92 seconds elapsed
+
+All ICA runs complete!
+15.07 seconds elapsed
+
+All ICA runs complete!
+15.20 seconds elapsed
+
+All ICA runs complete!
+15.18 seconds elapsed
+
+All ICA runs complete!
+15.16 seconds elapsed
+
+All ICA runs complete!
+15.37 seconds elapsed
+
+Computing clusters...
+
+Computing clusters...
+
+Computing clusters...
+
+Computing clusters...
+
+Computing clusters...
+
+Computing clusters...
+Computing clusters...
+
+
+Computing clusters...
+
+Distance matrix completed!
+1.05 seconds elapsed
+
+Distance matrix completed!
+1.05 seconds elapsed
+
+Distance matrix completed!
+1.06 seconds elapsed
+
+Distance matrix completed!
+1.05 seconds elapsed
+
+Distance matrix completed!
+1.05 seconds elapsed
+
+Distance matrix completed!
+1.05 seconds elapsed
+
+Distance matrix completed!
+1.06 seconds elapsed
+
+Distance matrix completed!
+1.07 seconds elapsed
+
+Combining D matrix
+
+Combining D matrix
+
+Combining D matrix
+
+Combining D matrix
+
+Combining D matrix
+Combining D matrix
+
+Combining D matrix
+
+0.01 seconds elapsed
+
+Clustering
+
+Combining D matrix
+0.01 seconds elapsed
+
+Clustering
+0.01 seconds elapsed
+
+Clustering
+0.01 seconds elapsed
+
+Clustering
+0.01 seconds elapsed
+
+Clustering
+0.01 seconds elapsed
+
+Clustering
+0.01 seconds elapsed
+
+Clustering
+0.01 seconds elapsed
+
+Clustering
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+/Users/ariannamiano/opt/anaconda3/lib/python3.7/site-packages/sklearn/neighbors/_base.py:176: EfficiencyWarning: Precomputed sparse input was not sorted by data.
+  EfficiencyWarning)
+0.04 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+0.04 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+0.03 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+0.03 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+0.03 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+0.03 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+0.04 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+0.04 seconds elapsed
+
+Identified 5 clusters
+Loading individual S and A matrices
+1.75 seconds elapsed
+
+Gathering final S and A matrices
+1.76 seconds elapsed
+
+Gathering final S and A matrices
+1.77 seconds elapsed
+
+Gathering final S and A matrices
+1.77 seconds elapsed
+
+Gathering final S and A matrices
+1.77 seconds elapsed
+
+Gathering final S and A matrices
+1.78 seconds elapsed
+
+Gathering final S and A matrices
+1.78 seconds elapsed
+
+Gathering final S and A matrices
+1.78 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.92 seconds elapsed
+
+Final components created
+0.92 seconds elapsed
+
+Final components created
+0.92 seconds elapsed
+
+Final components created
+0.92 seconds elapsed
+
+Final components created
+0.93 seconds elapsed
+
+Final components created
+0.93 seconds elapsed
+
+Final components created
+0.93 seconds elapsed
+
+Final components created
+0.94 seconds elapsed
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+Writing files to /Users/ariannamiano/Desktop/PhD/Dynomics_data_stuff/precise-db/scripts
+0.09 seconds elapsed
+Complete!
+0.08 seconds elapsed
+Complete!
+0.09 seconds elapsed
+Complete!
+0.17 seconds elapsed
+Complete!
+0.16 seconds elapsed
+Complete!
+0.17 seconds elapsed
+Complete!
+0.15 seconds elapsed
+Complete!
+0.19 seconds elapsed
+Complete!
