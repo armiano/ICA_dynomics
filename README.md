@@ -36,7 +36,7 @@ This repository contains all the scripts and processed data for the analyses pre
 
 This project references scripts from the following external repositories:
 
-- [pymodulon](https://github.com/SBRG/pymodulon/))
+- [pymodulon](https://github.com/SBRG/pymodulon/)
 - [precise-db](https://github.com/SBRG/precise-db/)
 - [dynomics_public](https://github.com/GarrettCGraham/dynomics_public)
 
