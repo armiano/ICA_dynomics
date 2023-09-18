@@ -1,0 +1,1807 @@
+,gene_name,start,length,operon,COG
+zntA,zntA,2199,2199,zntA,No COG Annotation
+rpoS,rpoS,993,993,nlpD-rpoS,Amino acid transport and metabolism
+rihC,rihC,915,915,rihC,Amino acid transport and metabolism
+ypfH,ypfH,699,699,ypfH,Amino acid transport and metabolism
+alsI,alsI,450,450,alsI,Function unknown
+ygdQ,ygdQ,714,714,ygdQ,Function unknown
+yabP,yabP,579,579,yabPQ,Amino acid transport and metabolism
+ypfJ,ypfJ,864,864,ypfJ,Carbohydrate transport and metabolism
+talB,talB,954,954,talB,Coenzyme transport and metabolism
+yqeI,yqeI,810,810,yqeIJ,Function unknown
+yabI,yabI,765,765,yabI,Function unknown
+hda,hda,702,702,hda,Function unknown
+talA,talA,951,951,talA-tktB,"Posttranslational modification, protein turnover, chaperones"
+ygeH,ygeH,1377,1377,ygeH,"Posttranslational modification, protein turnover, chaperones"
+ilvI,ilvI,1725,1725,ilvIH,"Replication, recombination and repair"
+yfgB,yfgB,384,384,yfgB,Function unknown
+pfkB,pfkB,930,930,pfkB,No COG Annotation
+ygeY,ygeY,1212,1212,ygeY,Inorganic ion transport and metabolism
+secM,secM,513,513,secMA-mutT,Transcription
+iscS,iscS,1215,1215,iscRSUA,"Replication, recombination and repair"
+setB,setB,1182,1182,setB,"Replication, recombination and repair"
+ygiL,ygiL,552,552,ygiL,"Translation, ribosomal structure and biogenesis"
+yacL,yacL,363,363,yacL,Function unknown
+iscR,iscR,489,489,iscRSUA,Coenzyme transport and metabolism
+crp,crp,633,633,crp,"Translation, ribosomal structure and biogenesis"
+eaeH,eaeH,872,872,eaeH-insE-1EF-1F-1,Cell wall/membrane/envelope biogenesis
+proB,proB,1104,1104,proBA,"Posttranslational modification, protein turnover, chaperones"
+yfjL,yfjL,1617,1617,abpAB,Lipid transport and metabolism
+pdhR,pdhR,765,765,pdhR-aceEF-lpd,Nucleotide transport and metabolism
+ykgD,ykgD,284,284,ykgD,Amino acid transport and metabolism
+aroL,aroL,525,525,aroL-yaiA-aroM,Nucleotide transport and metabolism
+ydaQ,ydaQ,216,216,recET-ralR-ydaC-xisR-intR,Nucleotide transport and metabolism
+pykF,pykF,1413,1413,pykF,Transcription
+gsk,gsk,1305,1305,gsk,Function unknown
+serC,serC,1089,1089,serC-aroA,Lipid transport and metabolism
+yohC,yohC,588,588,yohC,Lipid transport and metabolism
+sdhC,sdhC,390,390,sdhCDAB-sucABCD,Energy production and conversion
+smtA,smtA,786,786,cmoM-mukFEB,Lipid transport and metabolism
+cysB,cysB,975,975,cysB,Inorganic ion transport and metabolism
+csgC,csgC,333,333,csgBAC,Energy production and conversion
+mngR,mngR,723,723,mngR,Energy production and conversion
+amiA,amiA,870,870,amiA-hemF,Energy production and conversion
+aroH,aroH,1047,1047,aroH,Energy production and conversion
+mviN,mviN,511,511,mviN,Carbohydrate transport and metabolism
+tktA,tktA,1992,1992,tktA,Function unknown
+slp,slp,567,567,slp-dctR,Inorganic ion transport and metabolism
+ycjL,ycjL,258,258,ycj,Coenzyme transport and metabolism
+ycgM,ycgM,660,660,ycgM,Signal transduction mechanisms
+nuoM,nuoM,1530,1530,nuoABCEFGHIJKLMN,Inorganic ion transport and metabolism
+rfaD,rfaD,310,310,rfaD,"Translation, ribosomal structure and biogenesis"
+ycjX,ycjX,1398,1398,ycjXF-tyrR,Coenzyme transport and metabolism
+ycjM,ycjM,1680,1680,ycjMNOPQRSTUV-ymjB,"Posttranslational modification, protein turnover, chaperones"
+insB_4,insB_4,167,167,insB_4,Cell wall/membrane/envelope biogenesis
+murC,murC,1476,1476,mraZ-rsmH-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC,"Posttranslational modification, protein turnover, chaperones"
+yncE,yncE,1062,1062,yncE,No COG Annotation
+ycbR,ycbR,699,699,ycbR,No COG Annotation
+hydN,hydN,528,528,hydN-hypF,"Translation, ribosomal structure and biogenesis"
+mrcB,mrcB,2535,2535,mrcB,"Replication, recombination and repair"
+yneJ,yneJ,882,882,yneJ,"Replication, recombination and repair"
+ycbB,ycbB,615,615,ycbB,Carbohydrate transport and metabolism
+hycB,hycB,612,612,hycABCDEFGHI,Carbohydrate transport and metabolism
+fhuA,fhuA,2244,2244,fhuACDB,Carbohydrate transport and metabolism
+ydiQ,ydiQ,765,765,ydiQRST-fadK,Transcription
+hemG,hemG,546,546,pepQ-yigZ-trkH-hemG,Function unknown
+cueO,cueO,1551,1551,cueO,Coenzyme transport and metabolism
+rpoH,rpoH,855,855,rpoH,Inorganic ion transport and metabolism
+b4285,b4285,1041,1041,b4285,Coenzyme transport and metabolism
+cusC,cusC,1374,1374,cusCFBA,Function unknown
+nac,nac,918,918,nac,No COG Annotation
+yiaT,yiaT,741,741,yiaT,Carbohydrate transport and metabolism
+wrbA,wrbA,597,597,wrbA-yccJ,Amino acid transport and metabolism
+ybdR,ybdR,1239,1239,ybdR,Amino acid transport and metabolism
+yidK,yidK,1716,1716,yidKJ,Amino acid transport and metabolism
+appA,appA,1299,1299,appCBXA,Amino acid transport and metabolism
+ybeR,ybeR,708,708,ybeR-djlB,No COG Annotation
+rsuA,rsuA,696,696,rsuA,Transcription
+yidR,yidR,1248,1248,yidR,Amino acid transport and metabolism
+phoH,phoH,1065,1065,phoH,Amino acid transport and metabolism
+ybeU,ybeU,708,708,ybeU-djlC,Transcription
+yfiC,yfiC,735,735,yfiC,Function unknown
+yidH,yidH,348,348,yidHGF,Cell wall/membrane/envelope biogenesis
+ycjY,ycjY,921,921,ycjY-ymjDC-mpaA,"Cell cycle control, cell division, chromosome partitioning"
+ubiF,ubiF,1176,1176,ubiF,Cell wall/membrane/envelope biogenesis
+yagY,yagY,669,669,ecpRABCDE,Cell wall/membrane/envelope biogenesis
+yajG,yajG,579,579,yajG-ampG,Cell wall/membrane/envelope biogenesis
+fepA,fepA,2241,2241,fepA-entD,Cell wall/membrane/envelope biogenesis
+ybhE,ybhE,993,993,ybhE,Cell wall/membrane/envelope biogenesis
+yagZ,yagZ,585,585,yagZ,"Cell cycle control, cell division, chromosome partitioning"
+mlc,mlc,1221,1221,mlc-ynfK,Cell wall/membrane/envelope biogenesis
+narX,narX,1797,1797,narXL,Cell wall/membrane/envelope biogenesis
+ugpB,ugpB,1317,1317,ugpBAECQ,Cell wall/membrane/envelope biogenesis
+ykgI,ykgI,66,66,YhcN,Cell wall/membrane/envelope biogenesis
+pitB,pitB,1500,1500,pitB,"Cell cycle control, cell division, chromosome partitioning"
+yciI,yciI,297,297,yciI,"Cell cycle control, cell division, chromosome partitioning"
+dctA,dctA,1287,1287,dctA,Cell wall/membrane/envelope biogenesis
+b0309,b0309,213,213,b0309,Transcription
+fecA,fecA,2325,2325,fecABCDE,"Intracellular trafficking, secretion, and vesicular transport"
+uxaC,uxaC,1413,1413,uxaCA,"Replication, recombination and repair"
+dppA,dppA,1608,1608,dppABCDF,Function unknown
+yafK,yafK,741,741,yafK,Function unknown
+ychM,ychM,559,559,ychM,Coenzyme transport and metabolism
+ppiA,ppiA,573,573,ppiA,Nucleotide transport and metabolism
+alsB,alsB,936,936,alsRBACE,"Intracellular trafficking, secretion, and vesicular transport"
+mutT,mutT,390,390,secMA-mutT,"Intracellular trafficking, secretion, and vesicular transport"
+xasA,xasA,511,511,xasA,"Intracellular trafficking, secretion, and vesicular transport"
+shiA,shiA,1317,1317,shiA,Coenzyme transport and metabolism
+dcuA,dcuA,1302,1302,aspA-dcuA,Cell wall/membrane/envelope biogenesis
+dinB,dinB,1056,1056,dinB-yafNOP,Defense mechanisms
+chbA,chbA,351,351,chbBCARFG,Amino acid transport and metabolism
+yncG,yncG,618,618,yncG,Transcription
+ybfG,ybfG,651,651,ybfHG,Energy production and conversion
+brnQ,brnQ,1320,1320,brnQ-proY,Energy production and conversion
+b1997,insC3,366,366,insCD-3C-3D-3,Energy production and conversion
+glpA,glpA,1629,1629,glpABC,Function unknown
+cvpA,cvpA,489,489,cvpA-purF-ubiX,Energy production and conversion
+ftsK,ftsK,3990,3990,ftsK,Function unknown
+mtr,mtr,1245,1245,mtr,Amino acid transport and metabolism
+fadL,fadL,1341,1341,fadL,Amino acid transport and metabolism
+ybiJ,ybiJ,261,261,ybiJ,Function unknown
+ydgL,ydgL,460,460,ydgL,"Secondary metabolites biosynthesis, transport and catabolism"
+cadB,cadB,1335,1335,cadBA,Carbohydrate transport and metabolism
+nupC,nupC,1203,1203,nupC,Nucleotide transport and metabolism
+nmpC,nmpC,1040,1040,nmpC,Inorganic ion transport and metabolism
+sodB,sodB,582,582,sodB,Defense mechanisms
+treB,treB,1422,1422,treBC,Defense mechanisms
+yqeG,yqeG,1230,1230,yqeG,Carbohydrate transport and metabolism
+ybiU,ybiU,1266,1266,ybiU,Carbohydrate transport and metabolism
+rpoD,rpoD,1842,1842,rpsU-dnaG-rpoD,Coenzyme transport and metabolism
+fimD,fimD,2637,2637,fimAICDFGH,Function unknown
+fdhF,fdhF,2148,2148,fdhF,Coenzyme transport and metabolism
+ompG,ompG,906,906,ompG,Coenzyme transport and metabolism
+yeaU,yeaU,361,361,yeaU,"Intracellular trafficking, secretion, and vesicular transport"
+mntR,mntR,468,468,mntR-ybiR,Function unknown
+nudE,nudE,561,561,nudE,Function unknown
+lpp,lpp,237,237,lpp,Function unknown
+yedX,yedX,414,414,yedX,Cell wall/membrane/envelope biogenesis
+yliI,yliI,1116,1116,yliI,"Posttranslational modification, protein turnover, chaperones"
+yhhM,yhhM,360,360,yhhM,No COG Annotation
+rcsA,rcsA,624,624,rcsA,Coenzyme transport and metabolism
+ypdA,ypdA,1698,1698,ypdABC,"Translation, ribosomal structure and biogenesis"
+ybjN,ybjN,477,477,ybjC-nfsA-rimK-ybjN,"Translation, ribosomal structure and biogenesis"
+sirA,sirA,444,444,sirA,Signal transduction mechanisms
+agn43,agn43,2106,2106,agn43,Function unknown
+yjiT,yjiT,1518,1518,yjiT,"Translation, ribosomal structure and biogenesis"
+folA,folA,480,480,folA,"Replication, recombination and repair"
+norR,norR,1515,1515,norR,Cell wall/membrane/envelope biogenesis
+mltC,mltC,1080,1080,mutY-yggX-mltC-nupG,Inorganic ion transport and metabolism
+citT,citT,1464,1464,citT,Inorganic ion transport and metabolism
+hemH,hemH,963,963,hemH,Inorganic ion transport and metabolism
+ygbI,ygbI,768,768,ygbI,Inorganic ion transport and metabolism
+yidC,yidC,1647,1647,yidC,Coenzyme transport and metabolism
+galE,galE,1017,1017,galETKM,Inorganic ion transport and metabolism
+dusC,dusC,948,948,dusC,Function unknown
+ssuE,ssuE,576,576,ssuEADCB,Function unknown
+purM,purM,1038,1038,purMN,Inorganic ion transport and metabolism
+hisL,hisL,51,51,hisLGDCBHAFI,Nucleotide transport and metabolism
+yeiE,yeiE,882,882,yeiE,Nucleotide transport and metabolism
+leuS,leuS,2583,2583,leuS-lptE-holA-nadD-cobC,"Posttranslational modification, protein turnover, chaperones"
+ygiH,ygiH,615,615,ygiH,Transcription
+cysK,cysK,972,972,cysK,Function unknown
+yejO,yejO,2525,2525,yejO,Function unknown
+rluE,rluE,654,654,rluE-nudJ,Amino acid transport and metabolism
+udp,udp,762,762,udp,"Posttranslational modification, protein turnover, chaperones"
+pheL,pheL,48,48,pheLA,"Translation, ribosomal structure and biogenesis"
+elaA,elaA,462,462,elaA,"Translation, ribosomal structure and biogenesis"
+alsR,alsR,891,891,alsRBACE,"Translation, ribosomal structure and biogenesis"
+fxsA,fxsA,477,477,fxsA,Nucleotide transport and metabolism
+dapF,dapF,825,825,yifL-dapF-yigA-xerC-yigB,"Translation, ribosomal structure and biogenesis"
+ppiB,ppiB,495,495,ppiB-lpxH,Lipid transport and metabolism
+maeB,maeB,2280,2280,maeB,Lipid transport and metabolism
+cysQ,cysQ,741,741,cysQ,Lipid transport and metabolism
+tyrB,tyrB,1194,1194,tyrB,Cell wall/membrane/envelope biogenesis
+ligT,ligT,531,531,thpR,Cell wall/membrane/envelope biogenesis
+frdA,frdA,1809,1809,frdABCD,Cell wall/membrane/envelope biogenesis
+deoC,deoC,780,780,deoCABD,Cell wall/membrane/envelope biogenesis
+yajB,yajB,579,579,yajB,Lipid transport and metabolism
+ydiY,ydiY,759,759,ydiY,Cell wall/membrane/envelope biogenesis
+metK,metK,1155,1155,metK,Cell wall/membrane/envelope biogenesis
+argA,argA,1332,1332,argA,"Replication, recombination and repair"
+ybfF,ybfF,765,765,ybfF,"Replication, recombination and repair"
+uvrA,uvrA,2823,2823,uvrA,Lipid transport and metabolism
+ykgM,ykgM,264,264,ykgMO,Amino acid transport and metabolism
+lysR,lysR,936,936,lysR,Amino acid transport and metabolism
+yccF,yccF,447,447,yccFS,"Cell cycle control, cell division, chromosome partitioning"
+fruB,fruB,1131,1131,fruBKA,Transcription
+ykgC,ykgC,1323,1323,ykgC,Function unknown
+metC,metC,1188,1188,metC,Function unknown
+yecM,yecM,567,567,yecM-cutC,"Translation, ribosomal structure and biogenesis"
+nfo,nfo,858,858,nfo,Cell wall/membrane/envelope biogenesis
+ydiU,ydiU,1437,1437,ydiU,Function unknown
+gloA,gloA,408,408,nemRA-gloA,"Translation, ribosomal structure and biogenesis"
+ybiV,ybiV,816,816,ybiV,Function unknown
+yfiF,yfiF,1038,1038,yfiF,Cell wall/membrane/envelope biogenesis
+ddlA,ddlA,1095,1095,ddlA,Inorganic ion transport and metabolism
+ybdL,ybdL,1161,1161,ybdL,Inorganic ion transport and metabolism
+ybhQ,ybhQ,411,411,ybhQ,Inorganic ion transport and metabolism
+rof,rof,255,255,yaeP-rof,Amino acid transport and metabolism
+ybiF,ybiF,885,885,ybiF,Function unknown
+rhlE,rhlE,1365,1365,rhlE,Transcription
+ybiN,ybiN,924,924,ybiN,Function unknown
+qseB,qseB,660,660,qseBC,"Secondary metabolites biosynthesis, transport and catabolism"
+mipA,mipA,747,747,mipA,Cell wall/membrane/envelope biogenesis
+ybjK,ybjK,534,534,ybjK,Function unknown
+sbmA,sbmA,1221,1221,sbmA-yaiW,"Secondary metabolites biosynthesis, transport and catabolism"
+zupT,zupT,774,774,zupT,"Replication, recombination and repair"
+dsrA,dsrA,1215,1215,dsrA,"Replication, recombination and repair"
+yafS,yafS,723,723,yafS,Function unknown
+ybbL,fetA,675,675,FetAB,No COG Annotation
+ecfG,ecfG,618,618,ecfG,No COG Annotation
+rcsC,rcsC,2850,2850,rcsC,No COG Annotation
+dpiB,citA,1659,1659,dpiBA,Function unknown
+kdsB,kdsB,747,747,ycaR-kdsB,Function unknown
+yqjI,yqjI,624,624,yqjI,Lipid transport and metabolism
+ypeA,ypeA,426,426,ypeA-yfeZ,Carbohydrate transport and metabolism
+ydgH,ydgH,945,945,ydgH,Function unknown
+entS,entS,1251,1251,entS,Function unknown
+ybaY,ybaY,573,573,ybaY,Function unknown
+hofM,hofM,780,780,hofMNOP,"Replication, recombination and repair"
+yegE,yegE,3318,3318,dgcE,Cell wall/membrane/envelope biogenesis
+lolC,lolC,1200,1200,lolCDE,"Replication, recombination and repair"
+pgpB,pgpB,765,765,pgpB,No COG Annotation
+b3505,insH11,1017,1017,insH-11,No COG Annotation
+yfeN,yfeN,765,765,yfeN,"Replication, recombination and repair"
+pepT,pepT,1227,1227,pepT,"Cell cycle control, cell division, chromosome partitioning"
+yfdC,yfdC,933,933,yfdC,"Translation, ribosomal structure and biogenesis"
+htrL,yibB,858,858,htrL,Transcription
+yqgA,yqgA,708,708,yqgA,No COG Annotation
+znuC,znuC,756,756,znuCB,No COG Annotation
+ecfD,yfhL,258,258,ecfD,Amino acid transport and metabolism
+rplT,rplT,357,357,thrS-infC-rpmI-rplT-pheMST-ihfA,Nucleotide transport and metabolism
+yghU,yghU,867,867,yghU,Function unknown
+yfhH,yfhH,849,849,yfhH,Transcription
+yqiJ,yqiJ,630,630,yqiJK,Transcription
+rpmI,rpmI,198,198,thrS-infC-rpmI-rplT-pheMST-ihfA,Cell wall/membrane/envelope biogenesis
+pldA,pldA,870,870,pldA,Amino acid transport and metabolism
+yrbG,yrbG,978,978,yrbG-kdsDC-lptCAB-rpoN-hpf-ptsN-rapZ-npr,Amino acid transport and metabolism
+dacB,dacB,1434,1434,dacB,No COG Annotation
+rrfG,rrfG,120,120,rrfG,Function unknown
+lacZ,lacZ,3075,3075,lacZYA,No COG Annotation
+yheS,yheS,1914,1914,yheSTU,Function unknown
+ydiV,ydiV,714,714,ydiV,"Replication, recombination and repair"
+ygfU,uacT,1449,1449,uacT,Function unknown
+ybjH,ybjH,285,285,ybjH,Function unknown
+recN,recN,1662,1662,recN,Function unknown
+yeaE,yeaE,855,855,yeaE,Transcription
+pitA,pitA,1500,1500,pitA,No COG Annotation
+ymcC,gfcB,645,645,gfcBCD,No COG Annotation
+ilvD,ilvD,1851,1851,ilvLXG_1G_2MEDA,Function unknown
+manY,manY,801,801,manXYZ,Function unknown
+yhfA,yhfA,405,405,yhfA,Transcription
+aes,aes,960,960,aes,No COG Annotation
+ygjG,patA,1380,1380,patA,"Replication, recombination and repair"
+mrp,mrp,1110,1110,mrp,No COG Annotation
+msrB,msrB,414,414,msrB,No COG Annotation
+ycbC,elyC,780,780,elyC,"Replication, recombination and repair"
+argG,argG,1344,1344,argG,Amino acid transport and metabolism
+yejK,yejK,1008,1008,yejK,Amino acid transport and metabolism
+yacH,yacH,1854,1854,yacH,Amino acid transport and metabolism
+upp,upp,627,627,upp-uraA,No COG Annotation
+asnA,asnA,993,993,asnA,"Replication, recombination and repair"
+entF,entF,3882,3882,fes-ybdZ-entF-fepE,"Replication, recombination and repair"
+dps,dps,504,504,dps,No COG Annotation
+murB,murB,1029,1029,murB-birA,No COG Annotation
+poxB,poxB,1719,1719,hcp-hcr-poxB-ltaE-ybjT,No COG Annotation
+acpP,acpP,237,237,yceD-rpmF-plsX-fabHDG-acpP-fabF,"Replication, recombination and repair"
+torS,torS,2745,2745,torS,Amino acid transport and metabolism
+uidA,uidA,1812,1812,uidABC,Amino acid transport and metabolism
+U66,U66,0,0,U66,Carbohydrate transport and metabolism
+torR,torR,693,693,torR,Carbohydrate transport and metabolism
+gatY,gatY,855,855,gatYZABCD,Transcription
+pabC,pabC,807,807,pabC,Amino acid transport and metabolism
+adhE,adhE,2676,2676,adhE,No COG Annotation
+yjbB,yjbB,1632,1632,yjbB,"Replication, recombination and repair"
+galS,galS,1041,1041,galS,"Replication, recombination and repair"
+molR_2,molR_2,822,822,molR_2,No COG Annotation
+b2192,b2192,1017,1017,insH-8,Function unknown
+yjbE,yjbE,243,243,yjbEFGH,"Replication, recombination and repair"
+yjcH,yjcH,315,315,acs-yjcH-actP,Function unknown
+ubiE,ubiE,756,756,ubiEJB,Function unknown
+yfbV,yfbV,456,456,yfbV,"Replication, recombination and repair"
+yjbF,yjbF,639,639,yjbEFGH,No COG Annotation
+yjcO,yjcO,690,690,yjcO,No COG Annotation
+hemN,hemN,1374,1374,hemN,"Posttranslational modification, protein turnover, chaperones"
+aegA,aegA,1980,1980,aegA,Energy production and conversion
+psiE,psiE,408,408,psiE,Energy production and conversion
+mdtO,mdtO,2052,2052,mdtNOP,Energy production and conversion
+mog,mog,588,588,mog,Function unknown
+ygiP,ygiP,933,933,ttdR,Function unknown
+yjbJ,yjbJ,210,210,yjbJ,Function unknown
+mdtN,mdtN,1032,1032,mdtNOP,Function unknown
+pspE,pspE,315,315,pspABCDE,Function unknown
+glpE,glpE,327,327,glpEGR,Function unknown
+yjbI,yjbI,1326,1326,yjbI,Function unknown
+phnQ,phnQ,405,405,phnQ,Transcription
+fdoG,fdoG,3051,3051,fdoGHI-fdhE,No COG Annotation
+yjdB,eptA,1644,1644,eptA,"Translation, ribosomal structure and biogenesis"
+sfmA,sfmA,543,543,sfmA,"Translation, ribosomal structure and biogenesis"
+zraP,zraP,426,426,zraP,No COG Annotation
+dusA,dusA,1038,1038,dusA,No COG Annotation
+aniC,adiC,1338,1338,adiC,No COG Annotation
+bioB,bioB,1041,1041,bioBFCD,"Replication, recombination and repair"
+dcuS,dcuS,1632,1632,dcuSR,"Replication, recombination and repair"
+yjbQ,yjbQ,417,417,yjbQR,No COG Annotation
+yjdF,yjdF,630,630,yjdF,No COG Annotation
+gltX,gltX,1416,1416,gltX,Function unknown
+xylF,xylF,993,993,xylFGHR,Function unknown
+yccM,yccM,1074,1074,yccM,Energy production and conversion
+rmuC,rmuC,1428,1428,rmuC,Transcription
+ygjI,ygjI,1434,1434,ygjI,Energy production and conversion
+corA,corA,951,951,corA,Energy production and conversion
+ybcV,ybcV,411,411,ybcV,Function unknown
+yaiA,yaiA,192,192,aroL-yaiA-aroM,No COG Annotation
+frlA,frlA,1338,1338,frlABCDR,Amino acid transport and metabolism
+cysZ,cysZ,762,762,cysZ,Energy production and conversion
+ybhI,ybhI,1434,1434,ybhI,Transcription
+aidB,aidB,1626,1626,aidB,Inorganic ion transport and metabolism
+yeeR,yeeR,1533,1533,yeeRST-cbeA-cbtA-yeeW,Signal transduction mechanisms
+codB,codB,1260,1260,codBA,Transcription
+potF,potF,1113,1113,potFGHI,Function unknown
+ybfD,ybfD,762,762,ybfD,Function unknown
+yeeV,cbtA,375,375,yeeRST-cbeA-cbtA-yeeW,Function unknown
+mscL,mscL,411,411,mscL,Energy production and conversion
+oppA,oppA,1632,1632,oppABCDF,Function unknown
+ybgA,ybgA,510,510,ybgA-phr,Amino acid transport and metabolism
+yegP,yegP,333,333,yegP,Nucleotide transport and metabolism
+gntT,gntT,1317,1317,gntT,Energy production and conversion
+ydcS,ydcS,1146,1146,ydcSTUV-patD,No COG Annotation
+b0725,b0725,261,261,b0725,No COG Annotation
+yfaD,yfaD,900,900,rpnE-ypaA,Amino acid transport and metabolism
+yeaV,yeaV,1446,1446,yeaVW,Function unknown
+ybgE,ybgE,294,294,cydX-ybgE,Transcription
+yfdG,yfdG,360,360,yfdG,Carbohydrate transport and metabolism
+lctP,lctP,1653,1653,lctP,Energy production and conversion
+yejA,yejA,1815,1815,yejABEF,Function unknown
+ybgC,ybgC,405,405,ybgC-tolQRA,Lipid transport and metabolism
+yfdQ,yfdQ,825,825,yfdPQ,Nucleotide transport and metabolism
+rbsD,rbsD,420,420,rbsDACBKR,Nucleotide transport and metabolism
+sstT,sstT,1245,1245,sstT,Transcription
+ybhL,ybhL,705,705,ybhL,Inorganic ion transport and metabolism
+yffS,yffS,810,810,yffS,Inorganic ion transport and metabolism
+ybcY,ybcY,653,653,ybcY,Carbohydrate transport and metabolism
+rpsL,rpsL,375,375,rpsLG-fusA-tufA,Function unknown
+pldB,pldB,1023,1023,pldB-yigL,Carbohydrate transport and metabolism
+slt,slt,1938,1938,slt,Carbohydrate transport and metabolism
+def,def,507,507,def,Transcription
+rrnG,rrnG,1464,1464,rrnG,Transcription
+ybdH,ybdH,1089,1089,hcxA,Energy production and conversion
+yadG,yadG,927,927,yadGH,"Secondary metabolites biosynthesis, transport and catabolism"
+slyX,slyX,219,219,slyX,Function unknown
+serA,serA,1233,1233,serA,Amino acid transport and metabolism
+ybiH,ybiH,672,672,cecR-ybhGFSR,Transcription
+kdtA,kdtA,1275,1275,kdtA,Outer membrane biogenesis
+rpsP,rpsP,249,249,rpsP-rimM-trmD-rplS,"Translation, ribosomal structure and biogenesis"
+ybjJ,ybjJ,1209,1209,ybjJI,Carbohydrate transport and metabolism
+gltJ,gltJ,741,741,gltI-sroC-gltJKL,Amino acid transport and metabolism
+yifE,yifE,339,339,maoP,Function unknown
+rpsO,rpsO,270,270,metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp,"Translation, ribosomal structure and biogenesis"
+insA_7,insA_7,261,261,InsA,Absolutely required for transposition of IS1
+ybeZ,ybeZ,1041,1041,ybeZYX-lnt,Signal transduction mechanisms
+iap,iap,1038,1038,iap,Function unknown
+rrfD,rrfD,120,120,rrf,"Translation, 5s ribosomal RNA"
+citC,citC,1059,1059,citCDEFXG,Energy production and conversion
+modF,modF,1473,1473,modEF,Inorganic ion transport and metabolism
+deoR,deoR,759,759,deoR,Transcription
+folB,folB,369,369,folB,Coenzyme transport and metabolism
+ilvL,ilvL,99,99,ilvLXG_1G_2MEDA,No COG Annotation
+stpA,stpA,405,405,stpA,Function unknown
+aroP,aroP,1374,1374,aroP,Amino acid transport and metabolism
+ysgA,ysgA,816,816,ysgA,"Secondary metabolites biosynthesis, transport and catabolism"
+ilvC,ilvC,1476,1476,ilvC,Amino acid transport and metabolism
+ydhZ,ydhZ,210,210,fumD,Function unknown
+glyQ,glyQ,912,912,glyQS,"Translation, ribosomal structure and biogenesis"
+aspA,aspA,1437,1437,aspA-dcuA,Amino acid transport and metabolism
+metE,metE,2262,2262,metE,Amino acid transport and metabolism
+trmA,trmA,1101,1101,trmA,"Translation, ribosomal structure and biogenesis"
+b0360,b0360,366,366,insC-1CD-1D-1,"Replication, recombination and repair"
+cpdB,cpdB,1944,1944,cpdB,Nucleotide transport and metabolism
+metB,metB,1161,1161,metBL,Amino acid transport and metabolism
+ycgF,ycgF,1209,1209,ycgF,blue light photoreceptor activity
+gltA,gltA,1284,1284,gltA,Energy production and conversion
+yjiH,yjiH,684,684,yjiHG-iadA,Function unknown
+argC,argC,1005,1005,argCBH,Amino acid transport and metabolism
+yniC,yniC,669,669,hxpB,Function unknown
+pgi,pgi,1650,1650,pgi,Carbohydrate transport and metabolism
+yjjI,yjjI,1551,1551,yjjI,No COG Annotation
+metA,metA,930,930,metA,methionine biosynthesis pathway
+nudG,nudG,408,408,nudG,"Replication, recombination and repair"
+caiC,caiC,1554,1554,caiTABCDE,Lipid transport and metabolism
+yqgD,yqgD,252,252,yqgD,predicted inner membrane protein  
+serB,serB,969,969,serB-radA-nadR,Amino acid transport and metabolism
+yeaL,yeaL,447,447,yeaL,Function unknown
+phoP,phoP,672,672,phoPQ,Signal transduction mechanisms
+trpR,trpR,327,327,trpR,Transcription
+cyoA,cyoA,948,948,cyoABCDE,Energy production and conversion
+U139,U139,,,U139,Promoterless vector 
+yeaP,yeaP,1026,1026,dgcP,Signal transduction mechanisms
+guaA,guaA,1578,1578,guaBA,Nucleotide transport and metabolism
+pheS,pheS,984,984,thrS-infC-rpmI-rplT-pheMST-ihfA,"Translation, ribosomal structure and biogenesis"
+yoaB,yoaB,345,345,yoaB,"Translation, ribosomal structure and biogenesis"
+tdcG_2,tdcG_2,1362,1362,tdcG_2,"L-serine dehydratase,gluconeogenesis"
+pgk,pgk,1164,1164,epd-pgk-fbaA,Carbohydrate transport and metabolism
+ybgS,ybgS,381,381,ybgS,Function unknown
+moaA,moaA,990,990,moaABCDE,Coenzyme transport and metabolism
+cysH,cysH,735,735,cysJIH,Inorganic ion transport and metabolism
+yjcD,yjcD,1347,1347,yjcD,High-affinity transporter for guanine and hypoxanthine
+yhbW,yhbW,1008,1008,yhbW,Energy production and conversion
+iaaA,iaaA,966,966,iaaA-gsiABCD,Amino acid transport and metabolism
+ugd,ugd,1167,1167,ugd,Cell wall/membrane/envelope biogenesis
+yjdK,yjdK,294,294,yjdK,Antitoxin component of a type V toxin-antitoxin system
+yjjU,yjjU,1074,1074,yjjUV,Function unknown
+hemA,hemA,1257,1257,hemA-prfA-prmC,Coenzyme transport and metabolism
+rfbA,rfbA,882,882,rfbBDACX,Cell wall/membrane/envelope biogenesis
+yjeI,yjeI,354,354,yjeI,Function unknown
+yeiG,yeiG,837,837,yeiG,Function unknown
+dgkA,dgkA,369,369,dgkA,Cell wall/membrane/envelope biogenesis
+rrlD,rrlD,,,rrlD,"rRNA large, 23S"
+pntA,pntA,1533,1533,pntAB,Energy production and conversion
+artP,artP,729,729,artPIQM,Amino acid transport and metabolism
+efp,efp,567,567,efp,"Translation, ribosomal structure and biogenesis"
+rpsM,rpsM,357,357,rpsMKD-rpoA-rplQ,"Translation, ribosomal structure and biogenesis"
+udk,udk,642,642,udk-dcd,Nucleotide transport and metabolism
+cydD,cydD,1767,1767,cydDC,Defense mechanisms
+fklB,fklB,621,621,fklB,"Posttranslational modification, protein turnover, chaperones"
+rplN,rplN,372,372,rplNXE-rpsNH-rplFR-rpsE-rpmD-rplO-secY-rpmJ,"Translation, ribosomal structure and biogenesis"
+xapA,xapA,834,834,xapAB,Nucleotide transport and metabolism
+yddA,yddA,1686,1686,yddAB,Function unknown
+ytfM,ytfM,1731,1731,ytfM,outer membrane biogenesis
+speC,speC,2136,2136,speC,Amino acid transport and metabolism
+pmbA,pmbA,1353,1353,pmbA,Function unknown
+yfhM,yfhM,4962,4962,yfhM-pbpC,Function unknown
+gssA,gssA,,,gssA,glutathionylspermidine synthetase / glutathionylspermidine amidase
+btuC,btuC,981,981,btuCED,Coenzyme transport and metabolism
+infA,infA,219,219,infA-serW,"Translation, ribosomal structure and biogenesis"
+yphG,yphG,3282,3282,yphG,Function unknown
+mglA,mglA,1521,1521,mglBAC,Inorganic ion transport and metabolism
+mdtH,mdtH,1209,1209,mdtH,Inorganic ion transport and metabolism
+yfgH,yfgH,519,519,yfgHI,Cell wall/membrane/envelope biogenesis
+cls,cls,1242,1242,ybhP-clsB-ybhN,synthesis of a major membrane phospholipid
+yiiP,fieF,900,900,fieF,Iron-efflux transporter responsible for iron detoxification
+ygjD,tsaD,1011,1011,ygjD,Transcription
+yfhR,yfhR,855,855,yfhR,Function unknown
+nlpC,nlpC,465,465,nlpC,Cell wall/membrane/envelope biogenesis
+ybdK,ybdK,1119,1119,ybdK,Function unknown
+yjfY,yjfY,276,276,yjfY,Function unknown
+msbB,msbB,969,969,msbB,outer membrane biogenesis
+rrnD,rrnD,,,rrnD,ribosomal RNA
+yfhL,yfhL,261,261,yfhL,Energy production and conversion
+pgsA,pgsA,549,549,pgsA,Lipid transport and metabolism
+yjcE,yjcE,1650,1650,yjcE,Inorganic ion transport and metabolism
+ftsZ,ftsZ,1152,1152,mraZ-rsmH-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC,"Cell cycle control, cell division, chromosome partitioning"
+smpA,smpA,339,339,YaeT,Cell wall/membrane/envelope biogenesis
+lepA,lepA,1800,1800,lepAB,Cell wall/membrane/envelope biogenesis
+b1367,b1367,,,b1367,function uknown
+fliF,fliF,1659,1659,fliFGHIJK,Cell motility
+yfjI,yfjI,1410,1410,yfjI,Function unknown
+nlpD,nlpD,1140,1140,nlpD-rpoS,Cell wall/membrane/envelope biogenesis
+ydbC,ydbC,861,861,pdxI,Energy production and conversion
+phoR,phoR,1296,1296,phoBR,Signal transduction mechanisms
+yqaD,yqaD,,,yqaD,Carbohydrate transport and metabolism
+lgt,lgt,876,876,lgt-thyA,Cell wall/membrane/envelope biogenesis
+ydbD,ydbD,2307,2307,ydbD,No COG Annotation
+clpX,clpX,1275,1275,clpPX-lon,"Posttranslational modification, protein turnover, chaperones"
+csiD,csiD,978,978,csiD-lhgO-gabDTP,"Secondary metabolites biosynthesis, transport and catabolism"
+prfB,prfB,1023,1023,xerD-dsbC-recJ-prfB-lysS,"Translation, ribosomal structure and biogenesis"
+ydcF,ydcF,801,801,ydcF,Function unknown
+yebB,yebB,603,603,yebB,Function unknown
+yncB,yncB,1038,1038,yncB,Function unknown
+plsC,plsC,738,738,plsC,Lipid transport and metabolism
+yliE,yliE,2349,2349,pdeI-dgcI,Signal transduction mechanisms
+fliE,fliE,315,315,fliE,Cell motility
+yjeN,yjeN,315,315,yjeNO,Function unknown
+yhfK,yhfK,2103,2103,yhfK,Function unknown
+ispB,ispB,972,972,ispB,Coenzyme transport and metabolism
+rfbB,rfbB,1086,1086,rfbBDACX,Cell wall/membrane/envelope biogenesis
+b2861,insC4,366,366,insCD-4C-4D-4-ygeONM,"Replication, recombination and repair"
+yhfL,yhfL,168,168,yhfL,Function unknown
+yiaD,yiaD,660,660,yiaD,Cell wall/membrane/envelope biogenesis
+gcvT,gcvT,1095,1095,gcvTHP,Amino acid transport and metabolism
+yjeB,nsrR,426,426,nsrR-rnr-rlmB-yjfIJ,Transcription
+yhfP,frlC,831,831,frlABCDR,Carbohydrate transport and metabolism
+yihD,yihD,270,270,yihD,Function unknown
+kbl,kbl,1197,1197,kbl-tdh,Coenzyme transport and metabolism
+yjfI,yjfI,402,402,nsrR-rnr-rlmB-yjfIJ,Function unknown
+yhgA,yhgA,879,879,rpnA,Function unknown
+hemL,hemL,1281,1281,hemL,Coenzyme transport and metabolism
+glmU,glmU,1371,1371,glmUS,Cell wall/membrane/envelope biogenesis
+yjfK,yjfK,660,660,yjfKLMC,Function unknown
+yrbL,yrbL,633,633,yrbL,Function unknown
+folD,folD,867,867,folD-ybcJ,Coenzyme transport and metabolism
+fpr,fpr,747,747,fpr,Energy production and conversion
+ytfI,ytfI,939,939,ytfI,No COG Annotation
+yhcA,yhcA,675,675,yhcADE_1,Function unknown
+ybhK,ybhK,909,909,ybhK,Function unknown
+yhiD,yhiD,648,648,hdeAB-yhiD,Function unknown
+yjgJ,bdcR,594,594,bdcR,Transcription
+moeA,moeA,1236,1236,moeAB,Coenzyme transport and metabolism
+rcsF,rcsF,405,405,rcsF-trmO,Cell wall/membrane/envelope biogenesis
+yhcG,yhcG,1128,1128,yhcG,Function unknown
+lolB,lolB,624,624,lolB-ispE-prs,Cell wall/membrane/envelope biogenesis
+fhuF,fhuF,789,789,fhuF,Function unknown
+ybbB,selU,1092,1092,selU,tRNA 2-selenouridine synthase
+sohA,sohA,333,333,sohA,Function unknown
+yebS,yebS,1284,1284,yebST,Function unknown
+pppA,pppA,810,810,pppA,Cell motility
+sspA,sspA,639,639,sspAB,"Posttranslational modification, protein turnover, chaperones"
+amiC,amiC,1254,1254,amiC,Cell wall/membrane/envelope biogenesis
+tolB,tolB,1293,1293,tolB-pal-cpoB,"Intracellular trafficking, secretion, and vesicular transport"
+ansB,ansB,1047,1047,ansB,Amino acid transport and metabolism
+arpA,arpA,2187,2187,arpA,Function unknown
+lysA,lysA,1263,1263,lysA,Amino acid transport and metabolism
+yohM,rcnA,825,825,rcnAB,Inorganic ion transport and metabolism
+yjhI,yjhI,789,789,yjhIHG,No COG Annotation
+b3007,b3007,0,,b3007,Function unknown
+pepN,pepN,2613,2613,pepN,Amino acid transport and metabolism
+intA,intA,1242,1242,intA,"Replication, recombination and repair"
+sgcC,sgcC,1314,1314,sgcXBCQAER,Carbohydrate transport and metabolism
+aer,aer,1521,1521,aer,Signal transduction mechanisms
+gpt,gpt,459,459,gpt,Nucleotide transport and metabolism
+tdcB,tdcB,990,990,tdcABCDEFG,Amino acid transport and metabolism
+yjhS,yjhS,978,978,yjhS,probable 9-O-acetyl N-acetylneuraminic acid esterase required for E coli to grow on this alternative sialic acid
+asnC,asnC,459,459,asnC-mioC-mnmG-rsmG,Transcription
+thiI,thiI,1449,1449,thiI,Coenzyme transport and metabolism
+atpI,atpI,381,381,atpIBEFHAGDC,Energy production and conversion
+adk,adk,645,645,adk,Nucleotide transport and metabolism
+yifB,yifB,1521,1521,yifB,"Posttranslational modification, protein turnover, chaperones"
+sbcB,sbcB,1428,1428,sbcB,"Replication, recombination and repair"
+rbfA,rbfA,402,402,metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp,"Translation, ribosomal structure and biogenesis"
+gyrB,gyrB,2415,2415,gyrB,"Replication, recombination and repair"
+ego,lsrA,1536,1536,lsrACDBFG-tam,Inorganic ion transport and metabolism
+glgB,glgB,2187,2187,glgBXCAP,Carbohydrate transport and metabolism
+ydcL,ydcL,669,669,ydcL,Function unknown
+yafC,yafC,915,915,yafC,Transcription
+nagE,nagE,1947,1947,nagE,Carbohydrate transport and metabolism
+yfjN,yfjN,1074,1074,rnlAB,RNA processing and modification
+ydcA,ydcA,174,174,ydcA,No COG Annotation
+rnhA,rnhA,468,468,rnhA,"Replication, recombination and repair"
+yfjG,ratA,477,477,ratA-yfjF,No COG Annotation
+tilS,tilS,1299,1299,tilS,"Cell cycle control, cell division, chromosome partitioning"
+yojI,yojI,1644,1644,yojI,Defense mechanisms
+dinJ,dinJ,261,261,dinJ-yafQ,"Replication, recombination and repair"
+b2641,yfjV_2,900,900,ypjM_1M_2,No COG Annotation
+tig,tig,1299,,"Posttranslational modification, protein turnover, chaperones",
+hisQ,hisQ,687,687,argT-hisJQMP,Amino acid transport and metabolism
+ybgH,dtpD,1482,1482,dtpD,Amino acid transport and metabolism
+yqaE,yqaE,159,159,yqaE-kbp,Function unknown
+dicB,dicB,189,189,dicB-ydfDE-insD-7-intQ,No COG Annotation
+cysW,cysW,876,876,cysPUWAM,Inorganic ion transport and metabolism
+ybiS,ybiS,918,918,ybiS,"Responsible, at least in part, for anchoring of the major outer membrane lipoprotein "
+ygcW,ygcW,786,786,ygcW,Function unknown
+proX,proX,993,993,proVWX,Amino acid transport and metabolism
+ugpA,ugpA,888,888,ugpBAECQ,Inorganic ion transport and metabolism
+ymfE,ymfE,705,705,ymfED,Function unknown
+ygcF,ygcF,669,669,ygcF,Purin metabolism
+cspA,cspA,213,213,cspA,Transcription
+dppB,dppB,1020,1020,dppABCDF,Inorganic ion transport and metabolism
+minC,minC,696,696,minCDE,"Cell cycle control, cell division, chromosome partitioning"
+ygdI,ygdI,228,228,ygdI,Function unknown
+b2680,b2680,0,,b2680,Function unknown
+pstC,pstC,960,960,pstSCAB-phoU,Inorganic ion transport and metabolism
+ycgK,pliG,402,402,pliG,Function unknown
+yqeK,yqeK,426,426,yqeK,No COG Annotation
+ygaZ,ygaZ,738,738,ygaZH,Amino acid transport and metabolism
+alsA,alsA,1533,1533,alsRBACE,Inorganic ion transport and metabolism
+ldhA,ldhA,990,990,ldhA,Energy production and conversion
+sseA,sseA,846,846,mstA,Inorganic ion transport and metabolism
+ygdR,ygdR,219,219,ygdR,Function unknown
+phnC,phnC,789,789,phnCDE_1E_2FGHIJKLMNOP,Inorganic ion transport and metabolism
+yddH,yddH,570,570,yddH,Function unknown
+yphH,yphH,1194,1194,yphH,Carbohydrate transport and metabolism
+yqeH,yqeH,633,633,yqeH,Transcription
+ybdF,ybdF,369,369,ybdF,Function unknown
+ydeI,ydeI,393,393,ydeI,Function unknown
+smpB,smpB,483,483,smpB,"Posttranslational modification, protein turnover, chaperones"
+ygeG,ygeG,492,492,ygeG,Function unknown
+ybdN,ybdN,1221,1221,ybdN,Function unknown
+malF,malF,1545,1545,malEFG,Inorganic ion transport and metabolism
+yfjW,yfjW,1704,1704,yfjW,Function unknown
+tufA,tufA,1185,1185,rpsLG-fusA-tufA,"Translation, ribosomal structure and biogenesis"
+rihA,rihA,936,936,rihA,Nucleotide transport and metabolism
+flgM,flgM,294,294,flgAMN,Transcription
+b2651,b2651,0,,b2651,Function unknown
+slyD,slyD,591,591,slyD,"Posttranslational modification, protein turnover, chaperones"
+ycdO,ycdO,1128,1128,efeOB,Inorganic ion transport and metabolism
+rhaT,rhaT,1035,1035,rhaT,Amino acid transport and metabolism
+manX,manX,972,972,manXYZ,Carbohydrate transport and metabolism
+rfaZ,rfaZ,849,849,rfaZ,outer membrane biogenesis
+ydcX,ydcX,174,174,ortT,Function unknown
+adiA,adiA,2268,2268,adiA,Amino acid transport and metabolism
+flgH,flgH,699,699,flgBCDEFGHIJ,Cell motility
+ilvY,ilvY,894,894,ilvY,Transcription
+xseA,xseA,1371,1371,xseA,"Replication, recombination and repair"
+cadA,cadA,2148,2148,cadBA,Amino acid transport and metabolism
+fabF,fabF,1242,1242,yceD-rpmF-plsX-fabHDG-acpP-fabF,Lipid transport and metabolism
+metR,metR,954,954,metR,Transcription
+yhiR,rlmJ,843,843,rlmJ,Function unknown
+emrR,mprA,531,531,mprA-emrAB,Transcription
+cfa,cfa,1149,1149,cfa,Cell wall/membrane/envelope biogenesis
+metJ,metJ,318,318,metJ,Transcription
+malS,malS,2031,2031,malS,Carbohydrate transport and metabolism
+idnR,idnR,999,999,idnDOTR,Transcription
+ydfO,ydfO,411,411,ynfO-ydfO,No COG Annotation
+argE,argE,1152,1152,argE,Amino acid transport and metabolism
+yicC,yicC,864,864,yicC,Function unknown
+hdeB,hdeB,327,327,hdeAB-yhiD,Function unknown
+yebF,yebF,357,357,yebF,Function unknown
+yjaB,yjaB,444,444,yjaB,Transcription
+pepQ,pepQ,1332,1332,pepQ-yigZ-trkH-hemG,Amino acid transport and metabolism
+gadW,gadW,729,729,gadAXW,No COG Annotation
+b1998,b1998,258,258,b1998,Function unknown
+ytjB,ytjB,645,645,ytjB-lplA,Function unknown
+yhjG,yhjG,2061,2061,yhjG,Cell wall/membrane/envelope biogenesis
+ybcW,ybcW,207,207,ybcW,No COG Annotation
+folE,folE,669,669,folE-yeiB,Coenzyme transport and metabolism
+b2974,b2974,0,,b2974,Putative endoglucanase
+ompT,ompT,954,954,envY-ompT,Cell wall/membrane/envelope biogenesis
+galU,galU,909,909,galU,Cell wall/membrane/envelope biogenesis
+bisC,bisC,2334,2334,bisC,Energy production and conversion
+hybO,hybO,1119,1119,hybOABCDEFG,Energy production and conversion
+ompA,ompA,1041,1041,ompA,Cell wall/membrane/envelope biogenesis
+gutM,srlM,360,360,srlAEBD-gutM-srlR-gutQ,Transcription
+mobA,mobA,528,528,mobAB,Coenzyme transport and metabolism
+chiA,chiA,2694,2694,chiA,Carbohydrate transport and metabolism
+hipB,hipB,267,267,hipBA,Transcription
+srlR,srlR,774,774,srlAEBD-gutM-srlR-gutQ,Transcription
+yoaH,yoaH,180,180,yoaH,Function unknown
+yhfX,yhfX,1164,1164,yhfXW-php-yhfUTS,Amino acid transport and metabolism
+uidC,uidC,1266,1266,uidABC,"Intracellular trafficking, secretion, and vesicular transport"
+fucR,fucR,732,732,fucPIKUR,Transcription
+aaeR,aaeR,930,930,aaeR,Transcription
+yhfZ,yhfZ,906,906,yhfZY,Function unknown
+cld,cld,318,318,cld,Function unknown
+dhaR,dhaR,1920,1920,dhaR,Transcription
+kbaZ,kbaZ,1281,1281,kbaZ-agaVWA,Carbohydrate transport and metabolism
+yzgL,yzgL,219,219,yzgL,No COG Annotation
+pbpG,pbpG,933,933,pbpG,Cell wall/membrane/envelope biogenesis
+feaB,feaB,1500,1500,feaB,Energy production and conversion
+yhaK,yhaK,702,702,yhaKL,Function unknown
+yhhW,yhhW,696,696,yhhW,Function unknown
+cirA,cirA,1992,1992,cirA,Inorganic ion transport and metabolism
+galR,galR,1032,1032,galR,Transcription
+yhdH,acuI,975,975,yhdH,Energy production and conversion
+rna,rna,807,807,rna,"Translation, ribosomal structure and biogenesis"
+murA,murA,1260,1260,ibaG-murA,Cell wall/membrane/envelope biogenesis
+bglA,bglA,1440,1440,bglA,Carbohydrate transport and metabolism
+yhcB,yhcB,399,399,yhcB,Function unknown
+relA,relA,2235,2235,relA-mazEFG,Transcription
+tyrP,tyrP,1212,1212,tyrP,Amino acid transport and metabolism
+nlpA,nlpA,819,819,nlpA,Inorganic ion transport and metabolism
+stfE,stfE,501,501,stfE-tfaE,No COG Annotation
+uvrC,uvrC,1833,1833,uvrYC,"Replication, recombination and repair"
+srlA,srlA,564,564,srlAEBD-gutM-srlR-gutQ,Carbohydrate transport and metabolism
+blc,blc,534,534,blc,Cell wall/membrane/envelope biogenesis
+yncI,yncI,738,738,yncM,No COG Annotation
+ihfB,ihfB,285,285,cmk-rpsA-ihfB,"Replication, recombination and repair"
+yahO,yahO,276,276,yahO,Function unknown
+ygjN,ygjN,1452,315,higBA,Function unknown
+ydfZ,ydfZ,1671,204,ydfZ,Function unknown
+cynT,cynT,660,660,cynTSX,Inorganic ion transport and metabolism
+b1437,b1437,,,b1437,Function unknown
+ygjV,ygjV,552,552,ygjV,Function unknown
+yceP,bssS,255,255,bssS,Biofilm regulator
+flgB,flgB,417,417,flgBCDEFGHIJ,Cell motility
+yncA,yncA,519,519,mnaT-ydcZ,Cell wall/membrane/envelope biogenesis
+yhaM,yhaM,1311,1311,yhaOM,Function unknown
+pspF,pspF,978,978,pspF,Transcription
+htpG,htpG,1875,1875,htpG,"Posttranslational modification, protein turnover, chaperones"
+lsrR,lsrR,954,954,lsrRK,Transcription
+yhbC,yhbC,453,453,metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp,Function unknown
+ycfS,ycfS,960,960,ycfS,Cell wall/membrane/envelope biogenesis
+yjjY,yjjY,141,141,yjjY,Function unknown
+b0259,insH1,1017,1017,insH-1,"Replication, recombination and repair"
+yraQ,yraQ,1041,1041,yraQ,Function unknown
+ycfD,ycfD,1122,1122,roxA,Function unknown
+cynR,cynR,900,900,cynR,Transcription
+nagB,nagB,801,801,nagBAC-umpH,Carbohydrate transport and metabolism
+psd,psd,969,969,psd-mscM,Lipid transport and metabolism
+ycgX,ycgX,405,405,ycgX,Function unknown
+ydfV,ydfV,306,306,ydfV,No COG Annotation
+yoaE,yoaE,1557,1557,yoaE,Inorganic ion transport and metabolism
+yhbX,yhbX,1626,1626,yhbX,Function unknown
+b1240,b1240,0,,b1240,Function unknown
+ybiA,ybiA,483,483,ybiA,Function unknown
+yecH,yecH,240,240,yecH,Function unknown
+ygeI,ygeI,219,219,ygeI,No COG Annotation
+yciA,yciA,399,399,yciA,Lipid transport and metabolism
+astC,astC,1221,1221,astCADBE,Amino acid transport and metabolism
+yahN,yahN,672,672,yahN,Amino acid transport and metabolism
+idi,idi,549,549,idi,Lipid transport and metabolism
+ybjQ,ybjQ,324,324,ybjQ-amiD,Function unknown
+ydjA,ydjA,552,552,ydjA-selD-topB,Energy production and conversion
+ygaQ,ygaQ,2253,2253,ygaQ,No COG Annotation
+ydfA,ydfA,156,156,ydfABC,No COG Annotation
+fhuC,fhuC,156,156,ydfABC,No COG Annotation
+yebG,yebG,291,291,yebG,Function unknown
+ygaV,ygaV,300,300,ygaVP,Transcription
+creB,creB,690,690,creABCD,Signal transduction mechanisms
+oppB,oppB,921,921,oppABCDF,Inorganic ion transport and metabolism
+yfiE,yfiE,882,882,yfiE,Transcription
+yqcE,yqcE,1278,1278,yqcE-ygcE,Carbohydrate transport and metabolism
+yeaS,leuE,639,639,leuE,Amino acid transport and metabolism
+ydeA,ydeA,1191,1191,ydeA,Carbohydrate transport and metabolism
+ygbA,ygbA,354,354,ygbA,Function unknown
+csdA,csdA,1206,1206,csdAE,Amino acid transport and metabolism
+yeaZ,yeaZ,696,696,tsaB-yeaY,"Posttranslational modification, protein turnover, chaperones"
+yhdX,yhdX,1182,1182,yhdWXYZ,Amino acid transport and metabolism
+nudH,rppH,531,531,rppH-ptsP,"Replication, recombination and repair"
+ygeF,ygeF_1,396,396,ygeF,No COG Annotation
+recE,recE,2601,2601,recET-ralR-ydaC-xisR-intR,"Replication, recombination and repair"
+nanA,nanA,894,894,nanATEK-yhcH,Amino acid transport and metabolism
+glcC,glcC,765,765,glcC,Transcription
+yraM,lpoA,2037,2037,lpoA,Function unknown
+rnd,rnd,1128,1128,rnd,"Translation, ribosomal structure and biogenesis"
+mreC,mreC,1104,1104,mreBCD,Cell wall/membrane/envelope biogenesis
+mhpR,mhpR,834,834,mhpR-lacI,Transcription
+yhbO,yhbO,519,519,yhbO,Function unknown
+ptrB,ptrB,2061,2061,ptrB,Amino acid transport and metabolism
+fadE,fadE,2445,2445,fadE,Lipid transport and metabolism
+feaR,feaR,906,906,feaR,Transcription
+clpB,clpB,2574,2574,clpB,"Posttranslational modification, protein turnover, chaperones"
+argI,argI,1005,1005,argI,Amino acid transport and metabolism
+rluF,rluF,873,873,rluF,"Translation, ribosomal structure and biogenesis"
+yhjJ,yhjJ,1497,1497,yhjJ,"Posttranslational modification, protein turnover, chaperones"
+fabZ,fabZ,456,456,bamA-skp-lpxD-fabZ-lpxAB-rnhB-dnaE,Lipid transport and metabolism
+yaaA,yaaA,777,777,yaaA,Function unknown
+mrr,mrr,915,915,mrr,Defense mechanisms
+yhjK,yhjK,1989,1989,pdeK,Signal transduction mechanisms
+crl,crl_1,71,71,crl_1,Transcription
+yaaH,yaaH,567,567,satP,Uptake of acetate and succinate.
+yfaY,yfaY,1203,1203,yfaY,Coenzyme transport and metabolism
+b3044,insC5,366,366,insC-5CD-5D-5-yqiGHI,"Replication, recombination and repair"
+yibL,yibL,363,363,yibL,Function unknown
+yaaI,yaaI,405,405,yaaI,Function unknown
+elaB,elaB,306,306,elaB,Function unknown
+rhsB,rhsB,4236,4236,rhsB,Cell wall/membrane/envelope biogenesis
+yicH,yicH,1710,1710,yicH,Function unknown
+yfbU,yfbU,495,495,yfbU-hxpA,Function unknown
+yiaW,yiaW,324,324,yiaWV,Function unknown
+yieE,yieE,750,750,yieEF,Coenzyme transport and metabolism
+argF,argF,1005,1005,argF,Amino acid transport and metabolism
+yfcD,yfcD,543,543,yfcD,Function unknown
+yidE,yidE,1662,1662,yidE,Inorganic ion transport and metabolism
+yihL,yihL,711,711,yihLM,Transcription
+aspC,aspC,1191,1191,aspC,Amino acid transport and metabolism
+yfcE,yfcE,555,555,yfcE,Function unknown
+yihR,yihR,927,927,yihR,Carbohydrate transport and metabolism
+yihX,yihX,600,600,yihXY-dtd-yiiD,Function unknown
+yfcI,yfcI,891,891,rpnB,Function unknown
+glpX,glpX,1011,1011,glpFKX,Carbohydrate transport and metabolism
+nadK,nadK,879,879,nadK,Carbohydrate transport and metabolism
+prmB,prmB,933,933,prmB-aroC-mepA-yfcA-epmC-yfcL,"Translation, ribosomal structure and biogenesis"
+dedA,dedA,660,660,pdxB-usg-truA-dedA,Function unknown
+yijF,yijF,618,618,yijF,Function unknown
+guaC,guaC,1044,1044,guaC,Nucleotide transport and metabolism
+cysP,cysP,1017,1017,cysPUWAM,Inorganic ion transport and metabolism
+yfeA,yfeA,2190,2190,pdeA,Signal transduction mechanisms
+yijO,yijO,852,852,yijO,Transcription
+barA,barA,2757,2757,barA,Signal transduction mechanisms
+dapA,dapA,879,879,dapA-bamC,Amino acid transport and metabolism
+ypjB,ypjB,792,792,ypjB,Function unknown
+pagB,pagB,180,180,pagB,Function unknown
+glyA,glyA,1254,1254,glyA,Amino acid transport and metabolism
+focA,focA,858,858,focA-pflB,Inorganic ion transport and metabolism
+hfq,hfq,309,309,yjeF-tsaE-amiB-mutL-miaA-hfq-hflXKC,Signal transduction mechanisms
+insA_3,insA_3,273,273,insA_3,transposition of IS1
+yobF,yobF,144,144,yobF-cspC,No COG Annotation
+yhdY,yhdY,1104,1104,yhdWXYZ,Amino acid transport and metabolism
+yggH,trmB,717,717,trmB,tRNA modification
+yjiM,yjiM,1152,1152,yjiML,Amino acid transport and metabolism
+yebO,yebO,288,288,yebO,Function unknown
+xylG,xylG,1542,1542,xylFGHR,Inorganic ion transport and metabolism
+mug,mug,507,507,mug,"Replication, recombination and repair"
+yjiA,yjiA,957,957,yjiXA,Function unknown
+yebE,yebE,660,660,yebE,Function unknown
+ytfR,ytfR,1503,1503,ytfQRT-yjfF,Inorganic ion transport and metabolism
+yneK,yneK,1116,1116,yneK,No COG Annotation
+yjiX,yjiX,204,204,yjiXA,Function unknown
+dacA,dacA,1212,1212,dacA,Cell wall/membrane/envelope biogenesis
+ycdZ,ycdZ,492,492,ycdZ,Function unknown
+rob,rob,870,870,rob,Transcription
+yjiJ,yjiJ,1179,1179,yjiJ,Carbohydrate transport and metabolism
+htpX,htpX,882,882,htpX,"Posttranslational modification, protein turnover, chaperones"
+ymdB,ymdB,534,534,ymdAB-clsC,Function unknown
+sulA,sulA,510,510,sulA,"Cell cycle control, cell division, chromosome partitioning"
+yjjL,lgoT,1362,1362,lgoT,Carbohydrate transport and metabolism
+treA,treA,1698,1698,treA,Carbohydrate transport and metabolism
+yceK,yceK,228,228,yceK,Function unknown
+rpsJ,rpsJ,312,312,rpsJ-rplCDWB-rpsS-rplV-rpsC-rplP-rpmC-rpsQ,"Translation, ribosomal structure and biogenesis"
+yhbE,yhbE,966,966,rplU-rpmA-yhbE-obgE,Amino acid transport and metabolism
+ycfJ,ycfJ,540,540,ycfJ,Cell wall/membrane/envelope biogenesis
+motA,motA,888,888,motAB-cheAW,Cell motility
+rpmB,rpmB,237,237,yicR-rpmBG-mutM,"Translation, ribosomal structure and biogenesis"
+yhcO,yhcO,273,273,yhcO,Transcription
+ycgH,ycgH_1,2574,2574,ycgH_1H_2,No COG Annotation
+panB,panB,795,795,panBC,Coenzyme transport and metabolism
+ybjM,ybjM,378,378,ybjM,Function unknown
+ompR,ompR,720,720,ompR-envZ,No COG Annotation
+nagA,nagA,1149,1149,nagBAC-umpH,Carbohydrate transport and metabolism
+smf,smf,1125,1125,smf,"Replication, recombination and repair"
+betT,betT,2034,2034,betT,Inorganic ion transport and metabolism
+relB,relB,240,240,relBE-hokD,"Replication, recombination and repair"
+grxB,grxB,648,648,grxB,"Posttranslational modification, protein turnover, chaperones"
+yhdN,yhdN,369,369,yhdN-zntR,Function unknown
+entC,entC,1176,1176,entCEBAH,Coenzyme transport and metabolism
+uvrY,uvrY,657,657,uvrYC,Signal transduction mechanisms
+pdxH,pdxH,657,657,pdxH-tyrS-pdxY,Coenzyme transport and metabolism
+bfd,bfd,195,195,bfd-bfr,Function unknown
+ytfQ,ytfQ,957,957,ytfQRT-yjfF,Carbohydrate transport and metabolism
+cyaA,cyaA,2547,2547,cyaA,Nucleotide transport and metabolism
+dcd,dcd,483,483,rhsE-ydcD,No COG Annotation
+yheO,yheO,723,723,yheO-tusDCB,Function unknown
+crcA,crcA,561,561,pagP,Cell wall/membrane/envelope biogenesis
+rhaS,rhaS,837,837,rhaSR,Transcription
+thiM,thiM,789,789,thiMD,Coenzyme transport and metabolism
+yhfG,yhfG,168,168,yhfG-fic-pabA,No COG Annotation
+ybjP,ybjP,516,516,ybjP,Function unknown
+chaB,chaB,231,231,chaBC,Function unknown
+gshA,gshA,1557,1557,gshA,Coenzyme transport and metabolism
+ygjJ,ygjJ,1071,1071,ygjJK,Function unknown
+ybjL,ybjL,1686,1686,ybjL,Inorganic ion transport and metabolism
+gntK,gntK,528,528,gntRKU,Carbohydrate transport and metabolism
+yliG,rimO,1326,1326,rimO,"Translation, ribosomal structure and biogenesis"
+gatR_1,gatR_1,299,299,gatR_1,No COG Annotation
+mdtG,mdtG,1227,1227,mdtG,Carbohydrate transport and metabolism
+ftsH,ftsH,1935,1935,rlmE-ftsH,"Posttranslational modification, protein turnover, chaperones"
+ascG,ascG,1011,1011,ascG,Transcription
+hcaR,hcaR,891,891,hcaR,Transcription
+narU,narU,1389,1389,narU,Inorganic ion transport and metabolism
+hslV,hslV,531,531,hslVU,"Posttranslational modification, protein turnover, chaperones"
+pth,pth,585,585,pth-ychF,"Translation, ribosomal structure and biogenesis"
+yciK,yciK,759,759,yciK-btuR,Function unknown
+ydjE,ydjE,1359,1359,ydjE,Carbohydrate transport and metabolism
+mcrB,mcrB,1380,1380,mcrBC,Defense mechanisms
+ais,ais,603,603,ais,Signal transduction mechanisms
+yfdZ,yfdZ,1239,1239,alaC,Amino acid transport and metabolism
+yfcJ,yfcJ,1179,1179,yfcJ,Carbohydrate transport and metabolism
+yhgF,yhgF,2322,2322,yhgF,Transcription
+b1420,mokB,168,168,mokB,No COG Annotation
+sohB,sohB,1050,1050,sohB,"Posttranslational modification, protein turnover, chaperones"
+idnT,idnT,1320,1320,idnDOTR,Amino acid transport and metabolism
+rssB,rssB,1014,1014,rssAB,Signal transduction mechanisms
+yjiY,yjiY,2151,2151,btsT,Signal transduction mechanisms
+yrfF,yrfF,2136,2136,yrfF,Function unknown
+yjhF,yjhF,1350,1350,yjhF,Amino acid transport and metabolism
+rnt,rnt,648,648,rnt-lhr,"Replication, recombination and repair"
+napF,napF,495,495,napFDAGHBC-ccmABCDEFGH,Energy production and conversion
+yhhY,yhhY,489,489,yhhY,Transcription
+dkgA,dkgA,828,828,yqhD-dkgA,Function unknown
+amyA,amyA,1488,1488,amyA,Carbohydrate transport and metabolism
+dpbA,dpbA,1374,1374,dbpA,"Replication, recombination and repair"
+yhhN,yhhN,627,627,yhhN,Function unknown
+yaaU,yaaU,1332,1332,yaaU,Carbohydrate transport and metabolism
+degQ,degQ,1368,1368,degQS,"Posttranslational modification, protein turnover, chaperones"
+rdoA,rdoA,987,987,srkA-dsbA,Function unknown
+yhhQ,yhhQ,666,666,yhhQ,Function unknown
+ygbN,ygbN,1365,1365,ygbN,Amino acid transport and metabolism
+pinE,pinE,555,555,pinE,"Replication, recombination and repair"
+pck,pck,1623,1623,pck,Energy production and conversion
+norV,norV,1440,1440,norVW,Energy production and conversion
+b1403,insC2,366,366,insCD-2C-2D-2,"Replication, recombination and repair"
+htrA,degP,1425,1425,degP,"Posttranslational modification, protein turnover, chaperones"
+b0165,b0165,,,b0165,Function unknown
+ygbJ,ygbJ,909,909,ygbJK,Lipid transport and metabolism
+coaE,coaE,621,621,coaE-zapD-yacG,Coenzyme transport and metabolism
+yedQ,yedQ,1695,1695,dgcQ,Signal transduction mechanisms
+yhbQ,yhbQ,303,303,yhbQ,"Replication, recombination and repair"
+fsaA,fsaA,663,663,fsaA,Carbohydrate transport and metabolism
+rumA,rumA,1302,1302,rlmD,"Translation, ribosomal structure and biogenesis"
+erfK,ldtA,933,933,ldtA,Function unknown
+yhbU,yhbU,996,996,yhbUV,"Posttranslational modification, protein turnover, chaperones"
+glnB,glnB,339,339,glrR-glnB,Amino acid transport and metabolism
+soxS,soxS,324,324,soxS,Transcription
+ansA,ansA,1017,1017,ansA-pncA,Amino acid transport and metabolism
+b0671,b0671,0,,metT,tRNA
+aroF,aroF,1071,1071,aroF-tyrA,Amino acid transport and metabolism
+yhcF,yhcF,717,717,yhcE_2F,Function unknown
+yqjF,yqjF,393,393,yqjF,Function unknown
+rhsE,rhsE,2037,2037,rhsE-ydcD,No COG Annotation
+speE,speE,867,867,yacC-speED,Amino acid transport and metabolism
+prpB,prpB,891,891,prpBCDE,Carbohydrate transport and metabolism
+ykgJ,ykgJ,330,330,ykgJ,Function unknown
+argU,argU,,,argU,encodes the rare arginine tRNA
+grxC,grxC,252,252,yibN-grxC-secB-gpsA,"Posttranslational modification, protein turnover, chaperones"
+ygjQ,ygjQ,693,693,ygjQ,Function unknown
+fepB,fepB,957,957,fepB,Inorganic ion transport and metabolism
+garD,garD,1572,1572,garD,Carbohydrate transport and metabolism
+nrdD,nrdD,2139,2139,nrdDG,Nucleotide transport and metabolism
+ygjR,ygjR,987,987,ygjR,Function unknown
+ybaE,ybaE,1701,1701,ybaE,Function unknown
+fur,fur,447,447,fldA-uof-fur,Transcription
+thiG,thiG,771,771,thiCEFSGH,Coenzyme transport and metabolism
+osmB,osmB,219,219,osmB,No COG Annotation
+nanR,nanR,792,792,nanR,Transcription
+soxR,soxR,465,465,soxR,Transcription
+ychF,ychF,1092,1092,pth-ychF,"Translation, ribosomal structure and biogenesis"
+hslJ,hslJ,423,423,hslJ,"Posttranslational modification, protein turnover, chaperones"
+ppa,ppa,531,531,ppa,Energy production and conversion
+rrlG,rrlG,2904,2904,rrlG,rRNA
+ycgN,ycgN,462,462,ycgN,Function unknown
+secE,secE,384,384,secE-nusG,"Intracellular trafficking, secretion, and vesicular transport"
+rpsG,rpsG,540,540,rpsLG-fusA-tufA,"Translation, ribosomal structure and biogenesis"
+otsB,otsB,801,801,otsBA,Carbohydrate transport and metabolism
+ycgY,ycgY,441,441,ycgY,No COG Annotation
+ybhM,ybhM,714,714,ybhM,Function unknown
+nlpI,nlpI,885,885,nlpI,Function unknown
+ybjO,ybjO,489,489,ybjO-rlmC,Function unknown
+rmf,rmf,168,168,rmf,"Translation, ribosomal structure and biogenesis"
+yjjV,yjjV,780,780,yjjUV,"Replication, recombination and repair"
+b1228,ychS,273,273,ychS,Function unknown
+ycaL,ycaL,765,765,ycaL,"Posttranslational modification, protein turnover, chaperones"
+rrnH,rrnH,,,rrnH,rRNA
+ibpB,ibpB,429,429,ibpAB,"Posttranslational modification, protein turnover, chaperones"
+rluB,rluB,876,876,rluB,"Translation, ribosomal structure and biogenesis"
+ycaI,ycaI,2265,2265,ycaI-msbA-lpxK-ycaQ,Function unknown
+rrlH,rrlH,,,rrlH,"rRNA large, 23S"
+ftsN,ftsN,960,960,ftsN,"Cell cycle control, cell division, chromosome partitioning"
+yciS,yciS,309,309,lapAB-pyrF-yciH,Function unknown
+ycbK,ycbK,549,549,ycbK-gloC,Function unknown
+rrfH,rrfH,0,,,RNA 5S ribosomal RNA
+cutA,cutA,339,339,cutA,Inorganic ion transport and metabolism
+perR,perR,894,894,perR,Transcription
+rpsA,rpsA,1674,1674,cmk-rpsA-ihfB,"Translation, ribosomal structure and biogenesis"
+cusR,cusR,684,684,cusRS,Signal transduction mechanisms
+ycbW,ycbW,543,543,zapC,"Cell cycle control, cell division, chromosome partitioning"
+rimL,rimL,540,540,rimL,"Translation, ribosomal structure and biogenesis"
+mdoB,mdoB,2292,2292,opgB,Cell wall/membrane/envelope biogenesis
+uspG,uspG,429,429,uspG,Signal transduction mechanisms
+ycdN,ycdN,105,105,efeU_1U_2,No COG Annotation
+ynfA,ynfA,327,327,ynfA,Function unknown
+oxyR,oxyR,918,918,oxyR,Transcription
+rplY,rplY,285,285,rplY,"Translation, ribosomal structure and biogenesis"
+fkpB,fkpB,450,450,ribF-ileS-lspA-fkpB-ispH,"Posttranslational modification, protein turnover, chaperones"
+ybeQ,ybeQ,978,978,ybeQ,Function unknown
+araE,araE,1419,1419,araE-ygeA,Carbohydrate transport and metabolism
+ssrA,ssrA,,,ssrA, needed for the correct high-level translation of RpoS
+yqjG,yqjG,987,987,yqjG,"Posttranslational modification, protein turnover, chaperones"
+argD,argD,1221,1221,argD,Amino acid transport and metabolism
+hyaA,hyaA,1119,1119,hyaABCDEF,Energy production and conversion
+yhaH,yhaH,366,366,yhaH,Function unknown
+rnk,rnk,411,411,rnk,Transcription
+aroK,aroK,522,522,aroKB-damX-dam-rpe-gph-trpS,Amino acid transport and metabolism
+ghrA,ghrA,939,939,ghrA,Amino acid transport and metabolism
+fixC,fixC,1287,1287,fixABCX,Energy production and conversion
+mgsA,mgsA,459,459,mgsA,Carbohydrate transport and metabolism
+glnL,glnL,1050,1050,glnALG,Signal transduction mechanisms
+valV,valV,0,,valV,valine tRNAs
+sdaA,sdaA,1365,1365,sdaA,Amino acid transport and metabolism
+gadB,gadB,1401,1401,gadBC,Amino acid transport and metabolism
+fruL,fruL,93,93,fruL,Function unknown
+yeeI,yeeI,798,798,mtfA,Function unknown
+exuR,exuR,777,777,exuR,Transcription
+hdhA,hdhA,768,768,hdhA,Function unknown
+lpd,lpd,1425,1425,pdhR-aceEF-lpd,Energy production and conversion
+asnV,asnV,0,0,asnV,tRNA
+tnaC,tnaC,75,75,tnaCAB,No COG Annotation
+pdxY,pdxY,864,864,pdxH-tyrS-pdxY,Coenzyme transport and metabolism
+yejH,yejH,1761,1761,radD,"Replication, recombination and repair"
+yqhH,yqhH,258,258,yqhH,Cell wall/membrane/envelope biogenesis
+ptsG,ptsG,1434,1434,ptsG,Carbohydrate transport and metabolism
+yadK,yadK,597,597,yadMLKC,Function unknown
+intB,intB,1266,1266,intB,No COG Annotation
+gmr,gmr,1986,1986,pdeR,Signal transduction mechanisms
+malE,malE,1191,1191,malEFG,Carbohydrate transport and metabolism
+cpdA,cpdA,828,828,nudF-yqiB-cpdA-yqiA-parE,Function unknown
+macA,macA,1116,1116,macAB,Cell wall/membrane/envelope biogenesis
+ymjA,ymjA,246,246,ymjA,Function unknown
+torT,torT,1029,1029,torT,Carbohydrate transport and metabolism
+yacG,yacG,198,198,coaE-zapD-yacG,Function unknown
+yeeA,yeeA,1059,1059,yeeA,Function unknown
+uspE,uspE,951,951,uspE,Signal transduction mechanisms
+fdnG,fdnG,3048,3048,fdnGHI,Energy production and conversion
+trmU,trmU,1107,1107,mnmA,"Translation, ribosomal structure and biogenesis"
+yejG,yejG,345,345,yejG,Function unknown
+ydaO,ydaO,936,936,ttcA,"Cell cycle control, cell division, chromosome partitioning"
+yadS,yadS,624,624,mtn-btuF-yadS,Function unknown
+ydaG,ydaG,135,135,ydaGF,No COG Annotation
+ylcE,ylcE,267,267,ylcE,Function unknown
+xylB,xylB,1455,1455,xylAB,Carbohydrate transport and metabolism
+apbE,apbE,1056,1056,ftp,Coenzyme transport and metabolism
+uspF,uspF,435,435,uspF,Signal transduction mechanisms
+ackA,ackA,1203,1203,ackA-pta,Energy production and conversion
+yggD,yggD,510,510,cmtBA-yggPF-fumE-yggC,Transcription
+ygiR,ygiR,2220,2220,ygiQ,Energy production and conversion
+yncJ,yncJ,231,231,yncJ,Function unknown
+narQ,narQ,1701,1701,narQ,Signal transduction mechanisms
+ydeO,ydeO,762,762,safA-ydeO,Transcription
+ynjF,ynjF,621,621,ynjF,Lipid transport and metabolism
+yddE,yddE,894,894,yddE,Function unknown
+ttdA,ttdA,912,912,ttdABT,Energy production and conversion
+eutR,eutR,1053,1053,eutBCLKR,Transcription
+b1788,yoaI,105,105,yoaI,No COG Annotation
+yddM,yddM,285,285,yddM,Function unknown
+glpD,glpD,1506,1506,glpD,Energy production and conversion
+yehS,yehS,471,471,yehS,Function unknown
+yoaF,yoaF,255,255,yoaF,Function unknown
+cspD,cspD,225,225,cspD,Transcription
+fdhD,fdhD,834,834,fdhD,Energy production and conversion
+yihN,yihN,1266,1266,yihN,Carbohydrate transport and metabolism
+yoaA,yoaA,1911,1911,yoaA,"Replication, recombination and repair"
+ycaC,ycaC,627,627,ycaC,"Secondary metabolites biosynthesis, transport and catabolism"
+aldB,aldB,1539,1539,aldB,Energy production and conversion
+zraS,zraS,1398,1398,zraSR,Signal transduction mechanisms
+nudB,nudB,453,453,nudB-yebC-ruvC,"Replication, recombination and repair"
+yebR,yebR,498,498,msrC,Signal transduction mechanisms
+yfeC,yfeC,345,345,yfeCD,Transcription
+nrfA,nrfA,1437,1437,nrfABCDEFG,Inorganic ion transport and metabolism
+cpsG,cpsG,1371,1371,wcaCDEF-gmd-fcl-gmm-wcaI-cpsBG-wcaJ-wzxC,Carbohydrate transport and metabolism
+yohL,rcnR,273,273,rcnR,Function unknown
+srmB,srmB,1335,1335,srmB,"Replication, recombination and repair"
+tktB,tktB,2004,2004,talA-tktB,Carbohydrate transport and metabolism
+pyrG,pyrG,1638,1638,pyrG-eno,Nucleotide transport and metabolism
+cspG,cspG,213,213,cspG,Transcription
+trxC,trxC,420,420,trxC,"Posttranslational modification, protein turnover, chaperones"
+pfkA,pfkA,963,963,pfkA,Carbohydrate transport and metabolism
+gcvA,gcvA,918,918,gcvA,Transcription
+intZ,intZ,1209,1209,intZ,"Replication, recombination and repair"
+metZ,metZ,0,0,metZ,tRNA
+edd,edd,1812,1812,edd-eda,Amino acid transport and metabolism
+gcvP,gcvP,2874,2874,gcvTHP,Amino acid transport and metabolism
+sscR,sscR,0,0,sscR,Function unknown
+yaeQ,yaeQ,546,546,yaeQ-arfB-nlpE,Function unknown
+ylbE,ylbE,1260,1260,fdrA-ylbEF-ybcF,No COG Annotation
+speB,speB,921,921,speAB,Amino acid transport and metabolism
+idnK,idnK,564,564,idnK,Carbohydrate transport and metabolism
+proL,proL,0,0,proL,tRNA
+ylbF,ylbF,816,816,fdrA-ylbEF-ybcF,Function unknown
+phnL,phnL,681,681,phnCDE_1E_2FGHIJKLMNOP,Inorganic ion transport and metabolism
+somA,somA,0,0,somA,Cell wall/membrane/envelope biogenesis
+argW,argW,0,0,argW,Function unknown
+renD,renD_1,93,93,renD-emrE,No COG Annotation
+nrdG,nrdG,465,465,nrdDG,"Posttranslational modification, protein turnover, chaperones"
+ycbZ,ycbZ,1761,1761,ycbZ,"Posttranslational modification, protein turnover, chaperones"
+yibK,yibK,471,471,yibK,tRNA
+ybcK,ybcK,1527,1527,ybcK,"Replication, recombination and repair"
+yfbS,yfbS,1833,1833,yfbS,Inorganic ion transport and metabolism
+eutB,eutB,1362,1362,eutBCLKR,Amino acid transport and metabolism
+rhoL,rhoL,1260,1260,rhoL,Transcription
+ybcL,ybcL,552,552,ybcLM,Function unknown
+ubiX,ubiX,570,570,cvpA-purF-ubiX,Coenzyme transport and metabolism
+cysJ,cysJ,1800,1800,cysJIH,Inorganic ion transport and metabolism
+rho,rho,1260,1260,rhoL,Transcription
+glxK,glxK,1146,1146,gcl-hyi-glxR-ybbW-allB-ybbY-glxK,Carbohydrate transport and metabolism
+usg,usg,1014,1014,pdxB-usg-truA-dedA,Amino acid transport and metabolism
+ygjH,ygjH,333,333,ygjH,"Translation, ribosomal structure and biogenesis"
+rlmB,rlmB,732,732,nsrR-rnr-rlmB-yjfIJ,"Translation, ribosomal structure and biogenesis"
+flgA,flgA,660,660,flgAMN,Cell motility
+yfcU,yfcU,2646,2646,yfcU_1U_2SRQPO,No COG Annotation
+b4283,insO_1,255,255,insO_1,No COG Annotation
+aspU,aspU,0,0,aspU,tRNA
+gnd,gnd,1407,1407,gnd,Carbohydrate transport and metabolism
+ycaN,ycaN,909,909,ycaN,Transcription
+yqjC,yqjC,369,369,yqjCDEK,Function unknown
+yafV,yafV,771,771,yafV,Function unknown
+lpxC,lpxC,918,918,mraZ-rsmH-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC,Cell wall/membrane/envelope biogenesis
+ybeT,ybeT,555,555,ybeT,Function unknown
+rhaD,rhaD,825,825,rhaBAD,Carbohydrate transport and metabolism
+kch,kch,1254,1254,kch,Inorganic ion transport and metabolism
+frr,frr,558,558,frr,"Translation, ribosomal structure and biogenesis"
+ynaI,ynaI,1032,1032,ynaI,Cell wall/membrane/envelope biogenesis
+tar,tar,1662,1662,tar-tap-cheRBYZ,Function unknown
+yciW,yciW,1128,1128,yciW,Function unknown
+plsX,plsX,1071,1071,yceD-rpmF-plsX-fabHDG-acpP-fabF,Lipid transport and metabolism
+ydfE,ydfE,765,765,dicB-ydfDE-insD-7-intQ,No COG Annotation
+ompC,ompC,1104,1104,ompC,Cell wall/membrane/envelope biogenesis
+rffC,wecD,675,675,rfe-wzzE-wecBC-rffGHC-wecE-wzxE-rffT-wzyE-rffM,Transcription
+ndk,ndk,432,432,ndk,Nucleotide transport and metabolism
+mpaA,mpaA,729,729,ycjY-ymjDC-mpaA,Amino acid transport and metabolism
+tufB,tufB,1185,1185,thrU-tyrU-glyT-thrT-tufB,"Translation, ribosomal structure and biogenesis"
+ydgD,ydgD,822,822,ydgD,"Posttranslational modification, protein turnover, chaperones"
+ruvA,ruvA,612,612,ruvAB,"Replication, recombination and repair"
+pinR,pinR,591,591,pinR,"Replication, recombination and repair"
+prfC,prfC,1590,1590,prfC,"Translation, ribosomal structure and biogenesis"
+ydgA,ydgA,1509,1509,ydgA,Function unknown
+yddL,yddL,279,279,yddLKJ,No COG Annotation
+tsf,tsf,852,852,tff-rpsB-tsf,"Translation, ribosomal structure and biogenesis"
+ydgK,ydgK,441,441,ydgK-rsxABCDGE-nth,Function unknown
+dsdX,dsdX,1338,1338,dsdXA,Amino acid transport and metabolism
+ydeQ,ydeQ,915,915,ydeQ,Function unknown
+ygiW,ygiW,393,393,ygiW,Function unknown
+ydgR,ydgR,0,0,ydgR,Stress response
+fliL,fliL,465,465,fliLMNOPQR,Cell motility
+ydeV,lsrK,1593,1593,lsrRK,Carbohydrate transport and metabolism
+ygiZ,ygiZ,333,333,ygiZ,Function unknown
+ydhR,ydhR,306,306,ydhR,Function unknown
+greB,greB,477,477,greB,Transcription
+yneF,yneF,948,948,dgcF,Signal transduction mechanisms
+ygiD,ygiD,789,789,ygiD,Function unknown
+ydhS,ydhS,1605,1605,ydhS,Function unknown
+katG,katG,2181,2181,katG,Inorganic ion transport and metabolism
+ygiF,ygiF,1302,1302,ygiF-glnE,Function unknown
+yagU,yagU,615,615,yagU,Function unknown
+ydfI,ydfI,1461,1461,ydfI,Carbohydrate transport and metabolism
+ynfC,ynfC,711,711,ynfC,Function unknown
+ydiL,ydiL,357,357,ydiL,Function unknown
+yahD,yahD,606,606,yahDEFG,Function unknown
+cspI,cspI,213,213,cspI,Transcription
+ydgC,ydgC,336,336,ydgC,Function unknown
+kil,kil,0,0,kil,phage protein
+prpC,prpC,1170,1170,prpBCDE,Energy production and conversion
+rrfC,rrfC,0,0,rrfC,rRNA
+ydhH,anmK,1110,1110,anmK,"Posttranslational modification, protein turnover, chaperones"
+ybhA,ybhA,819,819,ybhA,Function unknown
+b0374,yaiT_1,1458,1458,yaiT_1,No COG Annotation
+rrnA,rrnA,0,0,rrnA,rRNA
+ydhD,grxD,348,348,grxD,"Posttranslational modification, protein turnover, chaperones"
+ybiM,ybiM,0,0,ybiM,inhibits biofilm formation
+yaiZ,yaiZ,213,213,yaiZ,Function unknown
+rrlA,rrlA,0,0,rrlA,rRNA
+yjjJ,yjjJ,1332,1332,yjjJ,No COG Annotation
+b0656,insH3,1017,1017,insH-3,"Replication, recombination and repair"
+ycaO,ycaO,1761,1761,ycaO,Function unknown
+mqo,mqo,1647,1647,mqo,Energy production and conversion
+cytR,cytR,1026,1026,cytR,Transcription
+ycjK,ycjK,1419,1419,puuAP,Amino acid transport and metabolism
+yjdI,yjdI,231,231,yjdIJ,Function unknown
+pncB,pncB,1203,1203,pncB,Coenzyme transport and metabolism
+ycdM,ycdM,1149,1149,rutABCDEFG,Energy production and conversion
+dmsA,dmsA,2445,2445,dmsABC,Energy production and conversion
+yrbA,yrbA,0,0,yrbA,Function unknown
+pepD,pepD,1458,1458,pepD,Amino acid transport and metabolism
+b1027,insE4,300,300,insEF-4E-4F-4,"Replication, recombination and repair"
+cbdA,cbdA,1545,1545,appCBXA,Energy production and conversion
+ydeP,ydeP,2280,2280,ydeP,Energy production and conversion
+xseB,xseB,243,243,xseB-ispA-dxs-yajO,"Replication, recombination and repair"
+yceF,yceF,585,585,yceF,"Cell cycle control, cell division, chromosome partitioning"
+ndh,ndh,1305,1305,ndh,Energy production and conversion
+rne,rne,3186,3186,rne,"Translation, ribosomal structure and biogenesis"
+ompN,ompN,1134,1134,ydbK-ompN,Cell wall/membrane/envelope biogenesis
+aldH,aldH,0,0,aldH,Energy production and conversion
+ycfQ,ycfQ,633,633,comR,Transcription
+dcp,dcp,2046,2046,dcp,Amino acid transport and metabolism
+yafU,yafU,357,357,yafU,No COG Annotation
+aldA,aldA,1440,1440,aldA,Energy production and conversion
+b1142,ymfH,309,309,ymfH,Function unknown
+guaB,guaB,1467,1467,guaBA,Function unknown
+ybeB,rsfS,318,318,rsfS-rlmH-mrdAB-rlpA,Ribosomal silencing factor
+fhlA,fhlA,2079,2079,hypABCDE-fhlA,Transcription
+ydhP,ydhP,1170,1170,ydhP,Carbohydrate transport and metabolism
+prlC,prlC,2043,2043,prlC-rsmJ,Amino acid transport and metabolism
+yafD,yafD,801,801,yafDE,Function unknown
+nrfE,nrfE,1659,1659,nrfABCDEFG,"Posttranslational modification, protein turnover, chaperones"
+bax,bax,825,825,bax,Function unknown
+cybC,cybC,366,366,cybC,No COG Annotation
+b1172,ymgG,345,345,ymgGD,No COG Annotation
+rph,rph,669,669,rph-pyrE,"Translation, ribosomal structure and biogenesis"
+dnaQ,dnaQ,732,732,dnaQ,"Replication, recombination and repair"
+yhhZ,yhhZ,1179,1179,yhhZ-yrhA-insA-6AB-6B-6,Function unknown
+ycgR,ycgR,735,735,ycgR,Cell wall/membrane/envelope biogenesis
+fadB,fadB,2190,2190,fadBA,Lipid transport and metabolism
+yafL,yafL,750,750,yafL,Cell wall/membrane/envelope biogenesis
+yhiP,dtpB,1470,1470,dtpB,Amino acid transport and metabolism
+yfcV,yfcV,564,564,yfcV,No COG Annotation
+pepE,pepE,690,690,pepE,Amino acid transport and metabolism
+valT,valT,0,0,valT,valine tRNA
+b0582,insL2,1113,1113,insL-2,"Replication, recombination and repair"
+fadI,fadI,1311,1311,fadIJ,Lipid transport and metabolism
+hsdR,hsdR,3513,3513,hsdRMS,Defense mechanisms
+ileV,ileV,77,77,ileV,tRNA
+eno,eno,1299,1299,pyrG-eno,Carbohydrate transport and metabolism
+yfdL,yfdL,579,579,yfdONMLK,No COG Annotation
+ycjW,ycjW,999,999,ycjW,Transcription
+dxr,dxr,1197,1197,dxr,Lipid transport and metabolism
+ybaD,ybaD,0,450,nrdR-ribDE-nusB-thiL-pgpA,Transcription
+rrnB,rrnB,0,0,rrnB,rRNA
+imp,imp,453,453,metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp,Function unknown
+ampH,ampH,1158,1158,ampH,Defense mechanisms
+ybaQ,ybaQ,342,342,ybaQ,Function unknown
+rrfB,rrfB,0,0,rrfB,rRNA
+crcB,crcB,384,384,crcB,putative fluoride ion transporter
+yadF,yadF,660,660,yadF,Carbonic anhydrase
+allA,allA,483,483,allA,Nucleotide transport and metabolism
+rplL,rplL,366,366,rplKAJL-rpoBC,"Translation, ribosomal structure and biogenesis"
+cspB,cspB,216,216,cspB,Transcription
+ygeR,ygeR,756,756,ygeR,Cell wall/membrane/envelope biogenesis
+nhaA,nhaA,1167,1167,nhaAR,Inorganic ion transport and metabolism
+rrfE,rrfE,0,0,rrfE,rRNA
+agaS,agaS,1155,1155,agaS-kbaY-agaBCDI,Cell wall/membrane/envelope biogenesis
+fepD,fepD,1005,1005,fepDGC,Inorganic ion transport and metabolism
+fdrA,fdrA,1668,1668,fdrA-ylbEF-ybcF,Energy production and conversion
+rrlB,rrlB,0,0,rrlB,rRNA
+inaA,inaA,651,651,inaA,Signal transduction mechanisms
+ycfT,ycfT,1074,1074,ycfT,Function unknown
+ahpC,ahpC,564,564,ahpCF,"Posttranslational modification, protein turnover, chaperones"
+rrlE,rrlE,0,0,rrlE,rRNA
+pdxB,pdxB,1137,1137,pdxB-usg-truA-dedA,Amino acid transport and metabolism
+potA,potA,1137,1137,potABCD,Amino acid transport and metabolism
+yccE,yccE,1257,1257,yccE,No COG Annotation
+yidX,yidX,657,657,yidX,Function unknown
+nudF,nudF,630,630,nudF-yqiB-cpdA-yqiA-parE,Nucleotide transport and metabolism
+znuA,znuA,933,933,znuA,Inorganic ion transport and metabolism
+araB,araB,1701,1701,araBAD,Carbohydrate transport and metabolism
+yieH,yieH,666,666,yieH,Function unknown
+yqjH,yqjH,765,765,yqjH,Inorganic ion transport and metabolism
+yfhB,yfhB,612,612,yfhB,Function unknown
+glnA,glnA,1410,1410,glnALG,Amino acid transport and metabolism
+fabR,fabR,648,648,fabR-yijD,Transcription
+map,map,795,795,map-glnD-dapD,"Translation, ribosomal structure and biogenesis"
+yrbF,mlaF,810,810,mlaFEDCB,"Secondary metabolites biosynthesis, transport and catabolism"
+ligB,ligB,1683,1683,ligB,"Replication, recombination and repair"
+grpE,grpE,594,594,grpE,"Posttranslational modification, protein turnover, chaperones"
+tesB,tesB,861,861,tesB,Lipid transport and metabolism
+clpS,clpS,321,321,clpS,"Posttranslational modification, protein turnover, chaperones"
+araD,araD,696,696,araBAD,Carbohydrate transport and metabolism
+spy,spy,486,486,spy,Cell motility
+ribA,ribA,591,591,ribA,Coenzyme transport and metabolism
+ycaD,ycaD,1149,1149,ycaD,Carbohydrate transport and metabolism
+gpp,gpp,1485,1485,gpp,Nucleotide transport and metabolism
+ydjF,ydjF,759,759,ydjF,Transcription
+vacJ,mlaA,756,756,mlaA,Cell wall/membrane/envelope biogenesis
+ycaK,ycaK,591,591,ycaK,Function unknown
+polB,polB,2352,2352,polB,"Replication, recombination and repair"
+ydjL,ydjL,1077,1077,ydjLKJIHG,Amino acid transport and metabolism
+rluD,rluD,981,981,rluD-pgeF,"Translation, ribosomal structure and biogenesis"
+ycaP,ycaP,693,693,ycaP,Function unknown
+uvrD,uvrD,2163,2163,uvrD,"Replication, recombination and repair"
+rrmA,rrmA,807,807,rrmA,rRNA
+rfaH,rfaH,489,489,rfaH,Transcription
+ftsQ,ftsQ,831,831,mraZ-rsmH-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC,Cell wall/membrane/envelope biogenesis
+dnaK,dnaK,1917,1917,dnaK-tpke11-dnaJ,"Posttranslational modification, protein turnover, chaperones"
+proQ,proQ,699,699,proQ-prc,Signal transduction mechanisms
+glgS,glgS,201,201,glgS,Carbohydrate transport and metabolism
+ycdC,ycdC,639,639,rutR,Transcription
+gmk,gmk,624,624,gmk,Nucleotide transport and metabolism
+pphA,pphA,657,657,pphA,Signal transduction mechanisms
+rpiA,rpiA,660,660,rpiA,Carbohydrate transport and metabolism
+yfdV,yfdV,945,945,yfdX-frc-oxc-yfdVE,Function unknown
+yncD,yncD,2103,2103,yncD,Inorganic ion transport and metabolism
+yafT,yafT,786,786,yafT,Function unknown
+glcB,glcB,2172,2172,glcDEFGBA,Energy production and conversion
+yfdU,yfdU,1695,1695,yfdX-frc-oxc-yfdVE,Amino acid transport and metabolism
+yneI,yneI,1014,1014,tsaD,"Posttranslational modification, protein turnover, chaperones"
+yafJ,yafJ,768,768,yafJ,Function unknown
+rpe,rpe,678,678,aroKB-damX-dam-rpe-gph-trpS,Carbohydrate transport and metabolism
+fryB,fryB,327,327,fryBC-ypdFE-fryA,Carbohydrate transport and metabolism
+b0257,insN_1,258,258,insN_1,No COG Annotation
+ydiP,ydiP,912,912,ydiP,Transcription
+ucpA,ucpA,792,792,ucpA,Function unknown
+gntR,gntR,996,996,gntRKU,Transcription
+yagG,yagG,1383,1383,yagGH,Carbohydrate transport and metabolism
+yeaM,yeaM,822,822,nimR,Transcription
+eutN,eutN,288,288,eutNEJG,Amino acid transport and metabolism
+tpiA,tpiA,768,768,tpiA,Carbohydrate transport and metabolism
+ygeX,ygeX,1197,1197,ygeX,Amino acid transport and metabolism
+yeaT,dmlR,924,924,dmlR,Transcription
+ykfI,ykfI,342,342,yafY-ykfBF-yafX-ykfGH-yafW-ykfI,Function unknown
+yedW,yedW,672,672,hprRS,Signal transduction mechanisms
+der,der,1473,1473,bamB-der,Function unknown
+yggG,yggG,0,0,M48,Membrane associated protein
+ppdD,ppdD,441,441,ppdD-hofBC,"Intracellular trafficking, secretion, and vesicular transport"
+yaaJ,yaaJ,1431,1431,yaaJ,Amino acid transport and metabolism
+fliC,fliC,1497,1497,fliC,Cell motility
+yfgA,yfgA,1014,1014,rodZ,Function unknown
+acnB,acnB,2598,2598,acnB,Energy production and conversion
+yadN,yadN,585,585,yadN,No COG Annotation
+icd,icd,1251,1251,icd,Energy production and conversion
+fsr,fsr,1221,1221,fsr,Carbohydrate transport and metabolism
+fumB,fumB,1647,1647,dcuB-fumB,Energy production and conversion
+ybgI,ybgI,744,744,ybgI-pxpBCA-nei,Function unknown
+yegT,yegT,1278,1278,yegTUV,Carbohydrate transport and metabolism
+ynfL,ynfL,894,894,ynfL,Transcription
+ykfG,ykfG,477,477,yafY-ykfBF-yafX-ykfGH-yafW-ykfI,"Replication, recombination and repair"
+lit,lit,894,894,lit,"Cell cycle control, cell division, chromosome partitioning"
+ydhB,ydhB,933,933,ydhB,Transcription
+ycgJ,ycgJ,369,369,ycgJ,Function unknown
+yjfQ,yjfQ,0,0,yjfQ," regulator of the operon yjfS-X , reported to be involved in L-ascorbate metabolism"
+ribE,ribE,471,471,nrdR-ribDE-nusB-thiL-pgpA,Coenzyme transport and metabolism
+ybhD,ybhD,954,954,ybhD,Transcription
+ycgL,ycgL,294,294,ycgL,Function unknown
+ytfE,ytfE,663,663,ytfE,"Cell cycle control, cell division, chromosome partitioning"
+kdgR,kdgR,792,792,kdgR,Transcription
+ynfB,ynfB,342,342,ynfB-speG,Function unknown
+ydbH,ydbH,2640,2640,ydbH-ynbE-ydbL,Function unknown
+ytfF,ytfF,966,966,ytfF,Function unknown
+yabN,sgrR,1656,1656,sgrR-sroA-tbpA-thiPQ,Function unknown
+rstA,rstA,720,720,rstAB,Signal transduction mechanisms
+nhoA,nhoA,846,846,nhoA,"Secondary metabolites biosynthesis, transport and catabolism"
+ytfL,ytfL,1344,1344,ytfL,Inorganic ion transport and metabolism
+yebA,mepM,1323,1323,mepM,Cell wall/membrane/envelope biogenesis
+slyB,slyB,468,468,slyB,Cell wall/membrane/envelope biogenesis
+ydeJ,ydeJ,519,519,ydeJ,Function unknown
+greA,greA,477,477,greA,Transcription
+ymdE,ymdE,342,342,ymdE-ycdU,No COG Annotation
+ybeL,ybeL,483,483,ybeL,Function unknown
+torY,torY,1101,1101,torYZ,Energy production and conversion
+smf_2,smf_2,0,0,smf_2,Function unknown
+sraB,sraB,0,0,sraB,RNA
+sodA,sodA,621,621,sodA,Inorganic ion transport and metabolism
+yaiN,yaiN,0,0,frm,degradation of formaldehyde
+fkpA,fkpA,813,813,fkpA,"Posttranslational modification, protein turnover, chaperones"
+ycfR,ycfR,0,0,ycfR,chlorine-based oxidative stress
+rhaB,rhaB,1470,1470,rhaBAD,Carbohydrate transport and metabolism
+yeeX,yeeX,330,330,yeeX,Function unknown
+rfaQ,rfaQ,1035,1035,rirA-waaQGPSBOJYZU,Cell wall/membrane/envelope biogenesis
+ymfI,ymfI,342,342,ymfI,No COG Annotation
+ycjG,ycjG,966,966,ycjG,Cell wall/membrane/envelope biogenesis
+yeeE,yeeE,1059,1059,yeeED,Function unknown
+ftsJ,ftsJ,627,627,rlmE-ftsH,"Translation, ribosomal structure and biogenesis"
+ycgI,ycgI,108,108,ycgI_1,No COG Annotation
+marR,marR,435,435,marRAB,Transcription
+wcaJ,wcaJ,1395,1395,wcaCDEF-gmd-fcl-gmm-wcaI-cpsBG-wcaJ-wzxC,Cell wall/membrane/envelope biogenesis
+ftsY,ftsY,1494,1494,ftsYEX,"Intracellular trafficking, secretion, and vesicular transport"
+ymgE,ymgE,255,255,ymgE,Function unknown
+aceB,aceB,1602,1602,aceBAK,Energy production and conversion
+uspB,uspB,336,336,uspB,Function unknown
+katE,katE,2262,2262,katE,Inorganic ion transport and metabolism
+yiiR,yiiR,441,441,yiiR,Function unknown
+yfjM,yfjM,264,264,yfjM,Function unknown
+kefG,kefG,555,555,kefGB-yheV,Function unknown
+evgA,evgA,615,615,evgAS,Signal transduction mechanisms
+nudC,nudC,774,774,nudC-hemE-nfi,"Replication, recombination and repair"
+envY,envY,762,762,envY-ompT,Transcription
+yjjK,yjjK,1668,1668,ettA,Function unknown
+ypjD,ypjD,792,792,ypjD,"Posttranslational modification, protein turnover, chaperones"
+rimJ,rimJ,585,585,rimJ,"Translation, ribosomal structure and biogenesis"
+dhaM,dhaM,1419,1419,dhaKLM,Carbohydrate transport and metabolism
+racC,racC,276,276,racC,No COG Annotation
+yqcD,yqcD,849,849,queF,tRNA-queuosine biosynthesis
+rpsU,rpsU,216,216,rpsU-dnaG-rpoD,"Translation, ribosomal structure and biogenesis"
+speF,speF,2199,2199,speF-potE,Amino acid transport and metabolism
+ybaL,ybaL,1677,1677,ybaL,Inorganic ion transport and metabolism
+nfnB,nfnB,651,651,nfnB, nitroreductase
+rrnC,rrnC,0,0,rrnC,tRNA
+ykgF,ykgF,1428,1428,ykgEFG,Energy production and conversion
+zitB,zitB,942,942,zitB,Inorganic ion transport and metabolism
+sodC,sodC,522,522,sodC,Inorganic ion transport and metabolism
+dgoR,dgoR,690,690,dgoRKADT,Transcription
+yajC,yajC,333,333,tgt-yajC-secDF,"Intracellular trafficking, secretion, and vesicular transport"
+sapA,sapA,1644,1644,sapABCDF,Amino acid transport and metabolism
+yaiX,yaiX,282,282,yaiX_1,No COG Annotation
+yieG,yieG,1338,1338,adeP,Function unknown
+ybaT,ybaT,1293,1293,glsA-ybaT,Amino acid transport and metabolism
+mglB,mglB,999,999,mglBAC,Carbohydrate transport and metabolism
+pmrD,pmrD,267,267,pmrD,Signal transduction mechanisms
+yihU,yihU,897,897,yihUTS,Lipid transport and metabolism
+yafN,yafN,294,294,dinB-yafNOP,"Cell cycle control, cell division, chromosome partitioning"
+nupX,nupX,1251,1251,nupX,Nucleotide transport and metabolism
+hscB,hscB,516,516,hscBA-fdx-iscX,"Posttranslational modification, protein turnover, chaperones"
+yiiQ,yiiQ,600,600,yiiQ,Function unknown
+yjaH,yjaH,696,696,yjaH,Function unknown
+yeiM,psuT,1251,1251,psuT,Nucleotide transport and metabolism
+yjgH,yjgH,396,396,yjgH,"Translation, ribosomal structure and biogenesis"
+ptsA,frwA,2502,2502,ptsA-fsaB-gldA,Carbohydrate transport and metabolism
+ydhO,ydhO,816,816,mepH,Cell wall/membrane/envelope biogenesis
+dinG,dinG,2151,2151,dinG-ybiB,"Replication, recombination and repair"
+yjgR,yjgR,1503,1503,yjgR,Function unknown
+gntP,gntP,1344,1344,gntP,Amino acid transport and metabolism
+osmC,osmC,432,432,osmC,"Posttranslational modification, protein turnover, chaperones"
+xthA,xthA,807,807,xthA,"Replication, recombination and repair"
+yjhU,yjhU,987,987,yjhU,Transcription
+ydcJ,ydcJ,1344,1344,ydcJ,Function unknown
+flk,flk,996,996,flk,Cell motility
+sppA,sppA,1857,1857,sppA,"Posttranslational modification, protein turnover, chaperones"
+mltD,mltD,1359,1359,mltD,Cell wall/membrane/envelope biogenesis
+rssA,rssA,906,906,rssAB,Function unknown
+tolC,tolC,1482,1482,tolC-ygiABC,Cell wall/membrane/envelope biogenesis
+purT,purT,1179,1179,purT,Nucleotide transport and metabolism
+fldA,fldA,531,531,fldA-uof-fur,Energy production and conversion
+ompW,ompW,639,639,ompW,Cell wall/membrane/envelope biogenesis
+yhhF,yhhF,597,597,rsmD-yhhL,"Replication, recombination and repair"
+ung,ung,690,690,ung,"Replication, recombination and repair"
+sseB,sseB,777,777,sseB,Function unknown
+pflA,pflA,741,741,pflA,"Posttranslational modification, protein turnover, chaperones"
+yaeH,yaeH,387,387,yaeH,Function unknown
+uspA,uspA,435,435,uspA,Signal transduction mechanisms
+pepB,pepB,1284,1284,pepB,Amino acid transport and metabolism
+narZ,narZ,3741,3741,narZYWV,Energy production and conversion
+ykfA,ykfA,864,864,ykfA-yafZ,Function unknown
+ecfI,yidQ,333,333,yidQ,Function unknown
+yfhG,yfhG,714,714,qseG,Function unknown
+yigI,yigI,468,468,yigI,"Secondary metabolites biosynthesis, transport and catabolism"
+yagI,yagI,759,759,xynR,Transcription
+yhdJ,yhdJ,885,885,yhdJ,"Replication, recombination and repair"
+yfhK,yfhK,1428,1428,glrK,Signal transduction mechanisms
+rhtB,rhtB,621,621,rhtB,Amino acid transport and metabolism
+yadC,yadC,1239,1239,yadMLKC,"Intracellular trafficking, secretion, and vesicular transport"
+b3218,insH10,1017,1017,insH-10,"Replication, recombination and repair"
+b2639,b2639,0,0,b2639,Function unknown
+hemB,hemB,975,975,hemB,Coenzyme transport and metabolism
+kefF,kefF,531,531,kefFC,Function unknown
+serW,serW,0,0,serW,tRNA-serine
+entD,entD,621,621,fepA-entD,"Secondary metabolites biosynthesis, transport and catabolism"
+luxS,luxS,516,516,luxS,Signal transduction mechanisms
+dusB,dusB,966,966,dusB-fis,"Translation, ribosomal structure and biogenesis"
+hepA,hepA,2907,2907,rapA-rluA,"Replication, recombination and repair"
+lipA,lipA,966,966,lipA,Coenzyme transport and metabolism
+recX,recX,501,501,recAX,Function unknown
+ribC,ribC,642,642,ribC,Coenzyme transport and metabolism
+pcnB,pcnB,1398,1398,pcnB-folK,"Translation, ribosomal structure and biogenesis"
+lipB,lipB,642,642,ybeD-lipB,Coenzyme transport and metabolism
+rhsA,rhsA,4134,4134,rhsA-yibA,Cell wall/membrane/envelope biogenesis
+thiL,thiL,978,978,nrdR-ribDE-nusB-thiL-pgpA,Coenzyme transport and metabolism
+sufI,sufI,1413,1413,ftsP,"Secondary metabolites biosynthesis, transport and catabolism"
+ynfK,ynfK,696,696,mlc-ynfK,Coenzyme transport and metabolism
+ygcU,ygcU,1455,1455,ygcU,Energy production and conversion
+gst,gst,627,627,gstB,"Posttranslational modification, protein turnover, chaperones"
+tyrV,tyrV,0,0,tyrV,tRNA-tyrosine
+intF,intF,1401,1401,intF,"Replication, recombination and repair"
+ygdL,ygdL,807,807,tcdA,Coenzyme transport and metabolism
+nrdB,nrdB,1131,1131,nrdAB-yfaE,Nucleotide transport and metabolism
+cysT,cysT,834,834,cysPUWAM,Inorganic ion transport and metabolism
+leuA,leuA,1572,1572,leuLABCD,Amino acid transport and metabolism
+sthA,sthA,1401,1401,sthA,Energy production and conversion
+hdfR,hdfR,840,840,hdfR,Transcription
+hisJ,hisJ,783,783,argT-hisJQMP,Amino acid transport and metabolism
+rsd,rsd,477,477,rsd,Transcription
+cysD,cysD,909,909,cysDNC,Inorganic ion transport and metabolism
+yphF,yphF,984,984,yphFED,Carbohydrate transport and metabolism
+hlyE,hlyE,912,912,hlyE,"Cell cycle control, cell division, chromosome partitioning"
+yegW,yegW,747,747,yegW,Transcription
+plsB,plsB,2424,2424,plsB,Lipid transport and metabolism
+ushA,ushA,1653,1653,ushA,Nucleotide transport and metabolism
+yiiU,yiiU,246,246,zapB,Function unknown
+yehD,yehD,543,543,yehDCBA,Function unknown
+yjeK,yjeK,1029,1029,epmB,Amino acid transport and metabolism
+ynfM,ynfM,1254,1254,ynfM,Carbohydrate transport and metabolism
+araC,araC,879,879,araC,Transcription
+yehZ,yehZ,918,918,osmF-yehYXW,Amino acid transport and metabolism
+ytfB,ytfB,639,639,ytfB,Cell wall/membrane/envelope biogenesis
+mdtK,mdtK,1374,1374,mdtK,Defense mechanisms
+gltB,gltB,4461,4461,gltBDF,Amino acid transport and metabolism
+yeiC,yeiC,942,942,psuKG,Carbohydrate transport and metabolism
+msrA,msrA,639,639,msrA,"Posttranslational modification, protein turnover, chaperones"
+yebQ,yebQ,1374,1374,yebQ,Inorganic ion transport and metabolism
+dnaJ,dnaJ,1131,1131,dnaK-tpke11-dnaJ,"Posttranslational modification, protein turnover, chaperones"
+yciT,yciT,750,750,yciZT,Transcription
+yjgA,yjgA,552,552,yjgA,Function unknown
+setA,setA,1179,1179,sgrST-setA,Carbohydrate transport and metabolism
+groE,groE,0,0,Gro,"Posttranslational modification, protein turnover, chaperones"
+ydcR,ydcR,1407,1407,ydcR,Transcription
+ppiC,ppiC,282,282,ppiC,"Posttranslational modification, protein turnover, chaperones"
+selC,selC,0,0,selC,tRNA
+stfR,stfR,3363,3363,lomR_2-stfR-tfaR,Function unknown
+racR,racR,477,477,racR,Transcription
+lexA,lexA,609,609,lexA-dinF,Transcription
+ynbA,ynbA,606,606,ynbABCD,Lipid transport and metabolism
+rpsB,rpsB,726,726,tff-rpsB-tsf,"Translation, ribosomal structure and biogenesis"
+uxuA,uxuA,1185,1185,uxuAB,Carbohydrate transport and metabolism
+ydcG,ydcG,0,0,ydcG,Function unknown
+yfcG,yfcG,648,648,yfcG,"Posttranslational modification, protein turnover, chaperones"
+lacY,lacY,1254,1254,lacZYA,Carbohydrate transport and metabolism
+ygeA,ygeA,693,693,araE-ygeA,Amino acid transport and metabolism
+ydcM,ydcM,1149,1149,insQ,"Replication, recombination and repair"
+ecfE,ecfE,1353,1353,rseP,Cell wall/membrane/envelope biogenesis
+araJ,araJ,1185,1185,araJ,Carbohydrate transport and metabolism
+bacA,bacA,822,822,bacA,Defense mechanisms
+thiC,thiC,1896,1896,thiCEFSGH,Coenzyme transport and metabolism
+yaiW,yaiW,1095,1095,sbmA-yaiW,Function unknown
+yajR,yajR,1365,1365,yajR,Carbohydrate transport and metabolism
+yoaD,yoaD,1599,1599,pdeD,Signal transduction mechanisms
+yfbM,yfbM,504,504,yfbM,Function unknown
+yhjX,yhjX,1209,1209,yhjX,No COG Annotation
+yafZ,yafZ,822,822,ykfA-yafZ,Function unknown
+menD,menD,1671,1671,menFDHBCE,Coenzyme transport and metabolism
+yqfA,yqfA,660,660,yqfA,Function unknown
+nrdH,nrdH,246,246,nrdHIEF,"Posttranslational modification, protein turnover, chaperones"
+argQ,argQ,444,444,argQ, L-arginine biosynthesis
+menF,menF,1296,1296,menFDHBCE,Coenzyme transport and metabolism
+ygfF,ygfF,744,744,ygfF,Function unknown
+aceK,aceK,1737,1737,aceBAK,Signal transduction mechanisms
+argZ,argZ,0,0,argZ,tRNA-Arg
+folC,folC,1269,1269,folC-dedD,Coenzyme transport and metabolism
+ycjZ,ycjZ,966,966,ycjZ,Trascriptional regulator
+aphA,aphA,714,714,aphA,Function unknown
+mutS,mutS,2562,2562,mutS,"Replication, recombination and repair"
+hrpB,hrpB,2430,2430,hrpB,"Replication, recombination and repair"
+fes,fes,1203,1203,fes-ybdZ-entF-fepE,Inorganic ion transport and metabolism
+yhiI,yhiI,1068,1068,yhiI-rbbA-yhhJ,"Intracellular trafficking, secretion, and vesicular transport"
+mutH,mutH,690,690,mutH,"Replication, recombination and repair"
+seqA,seqA,546,546,seqA-pgm,"Replication, recombination and repair"
+cmr,cmr,0,0,cmr,resistance to chloramphenicol
+yhiJ,yhiJ,1623,1623,yhiJ,No COG Annotation
+mutY,mutY,1053,1053,mutY-yggX-mltC-nupG,"Replication, recombination and repair"
+helD,helD,2055,2055,helD,"Replication, recombination and repair"
+tonB,tonB,720,720,tonB,Cell wall/membrane/envelope biogenesis
+yeaX,yeaX,966,966,yeaX,Energy production and conversion
+ileX,ileX,0,0,ileX,tRNA
+metG,metG,2034,2034,metG,"Translation, ribosomal structure and biogenesis"
+yhhT,yhhT,1050,1050,yhhT,Function unknown
+yebU,yebU,1440,1440,rsmF,"Translation, ribosomal structure and biogenesis"
+creA,creA,474,474,creABCD,Function unknown
+yejL,yejL,228,228,yejLM,Function unknown
+pheP,pheP,1377,1377,pheP,Amino acid transport and metabolism
+yccR,yccR,630,630,sxy,Transcription
+b1966,yedS_1,663,663,yedS_1S_2S_3,No COG Annotation
+chaC,chaC,696,696,chaBC,Inorganic ion transport and metabolism
+btuB,btuB,1845,1845,btuB-murI,Inorganic ion transport and metabolism
+ecpD,ecpD,1644,1644,ecpBCDE,Function unknown
+yedY,yedY,1005,1005,msrPQ,Function unknown
+nupG,nupG,1257,1257,mutY-yggX-mltC-nupG,Carbohydrate transport and metabolism
+ypjA,ypjA,4581,4581,ypjA,"Intracellular trafficking, secretion, and vesicular transport"
+ybfE,ybfE,294,294,ybfE,Function unknown
+apt,apt,552,552,apt,Nucleotide transport and metabolism
+yniA,yniA,861,861,yniA,Carbohydrate transport and metabolism
+pinH,pinH,240,240,pinH,No COG Annotation
+yciG,yciG,180,180,yciGFE,Function unknown
+add,add,1002,1002,add,Nucleotide transport and metabolism
+ydjX,ydjX,711,711,ydjXYZ-ynjABCD,Function unknown
+yqaB,yqaB,567,567,yqaBA,Function unknown
+tyrS,tyrS,1275,1275,pdxH-tyrS-pdxY,"Translation, ribosomal structure and biogenesis"
+amn,amn,1455,1455,amn,Nucleotide transport and metabolism
+yddW,yddW,1320,1320,yddW,Function unknown
+ygaD,ygaD,498,498,pncC,Function unknown
+cdd,cdd,885,885,cdd,Nucleotide transport and metabolism
+dcm,dcm,1419,1419,dcm-vsr,"Replication, recombination and repair"
+ygcB,ygcB,2667,2667,cas3,"Replication, recombination and repair"
+yneE,yneE,915,915,yneE,Function unknown
+rfe,rfe,1104,1104,rfe-wzzE-wecBC-rffGHC-wecE-wzxE-rffT-wzyE-rffM,Cell wall/membrane/envelope biogenesis
+sbmC,sbmC,474,474,sbmC,Transcription
+menG,menG,486,486,menA-rraA,Coenzyme transport and metabolism
+ygfI,ygfI,897,897,ygfI,No COG Annotation
+yibF,yibF,609,609,yibF,"Posttranslational modification, protein turnover, chaperones"
+glyU,glyU,0,0,glyU,tRNA
+ecfK,ecfK,0,0,ecfK,Function unknown
+gudP,gudP,1353,1353,gudPXD,Carbohydrate transport and metabolism
+secB,secB,468,468,yibN-grxC-secB-gpsA,"Intracellular trafficking, secretion, and vesicular transport"
+cvrA,cvrA,1737,1737,cvrA,Inorganic ion transport and metabolism
+trkA,trkA,1377,1377,trkA,Inorganic ion transport and metabolism
+ybjG,ybjG,597,597,ybjG,Lipid transport and metabolism
+secA,secA,2706,2706,secMA-mutT,"Intracellular trafficking, secretion, and vesicular transport"
+aqpZ,aqpZ,696,696,aqpZ,Carbohydrate transport and metabolism
+yahI,yahI,951,951,yahIJ,Amino acid transport and metabolism
+emrE,emrE,333,333,renD-emrE,Inorganic ion transport and metabolism
+lacA,lacA,612,612,lacZYA,Function unknown
+b0298,insE1,300,300,eaeH-insE-1EF-1F-1,"Replication, recombination and repair"
+araF,araF,990,990,araFGH,Carbohydrate transport and metabolism
+ahpF,ahpF,1566,1566,ahpCF,"Posttranslational modification, protein turnover, chaperones"
+ybbC,ybbC,369,369,rhsD-ybbC-ylbH-ybbD,No COG Annotation
+tatE,tatE,204,204,tatE,"Intracellular trafficking, secretion, and vesicular transport"
+b0501,ybbD,491,491,ybbD,No COG Annotation
+lolA,lolA,612,612,lolA-rarA,Cell wall/membrane/envelope biogenesis
+yaiE,yaiE,285,285,ppnP,Function unknown
+sanA,sanA,720,720,sanA-yeiS,Function unknown
+paaX,paaX,951,951,paaXY,Transcription
+hemC,hemC,942,942,hemCDXY,Coenzyme transport and metabolism
+lpxP,lpxP,921,921,lpxP,Cell wall/membrane/envelope biogenesis
+pstS,pstS,1041,1041,pstSCAB-phoU,Inorganic ion transport and metabolism
+hrpA,hrpA,3903,3903,hrpA,"Replication, recombination and repair"
+fliA,fliA,720,720,fliAZ-tcyJ,Transcription
+fldB,fldB,522,522,fldB,Energy production and conversion
+rpoE,rpoE,576,576,rseD-rpoE-rseABC,Transcription
+argP,argP,894,894,argP,Transcription
+recA,recA,1062,1062,recAX,"Replication, recombination and repair"
+dfp,dfp,1221,1221,dfp,Coenzyme transport and metabolism
+arcB,arcB,2337,2337,arcB,Signal transduction mechanisms
+nohB,nohD,546,546,nohB,"Replication, recombination and repair"
+malX,malX,1593,1593,malXY,Carbohydrate transport and metabolism
+rpmE,rpmE,213,213,rpmE,"Translation, ribosomal structure and biogenesis"
+cobU,cobU,546,546,cobUST,Coenzyme transport and metabolism
+yggE,yggE,741,741,yggE,Function unknown
+ampD,ampD,552,552,ampDE,Cell wall/membrane/envelope biogenesis
+deaD,deaD,1890,1890,yrbN-deaD,"Replication, recombination and repair"
+mcrA,mcrA,834,834,mcrA,Defense mechanisms
+mscS,mscS,861,861,mscS,Cell wall/membrane/envelope biogenesis
+dgt,dgt,1518,1518,dgt,Nucleotide transport and metabolism
+pnp,pnp,2136,2136,metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp,"Translation, ribosomal structure and biogenesis"
+yahB,yahB,933,933,yahB,Transcription
+yggM,yggM,1008,1008,yggM,Function unknown
+ybjC,ybjC,288,288,ybjC-nfsA-rimK-ybjN,Function unknown
+rhsD,rhsD,4281,4281,rhsD-ybbC-ylbH-ybbD,Cell wall/membrane/envelope biogenesis
+yaiM,yaiM,834,834,frmRAB,Function unknown
+ydjN,ydjN,1392,1392,tcyP,Function unknown
+fecI,fecI,522,522,fecIR,Transcription
+agaR,agaR,810,810,agaR,Transcription
+yaiP,yaiP,1197,1197,yaiP,Cell wall/membrane/envelope biogenesis
+asr,asr,309,309,asr,No COG Annotation
+yfeK,yfeK,375,375,yfeKS,Function unknown
+yhaJ,yhaJ,897,897,yhaJ,Transcription
+ybdG,ybdG,1248,1248,ybdG,Cell wall/membrane/envelope biogenesis
+ydgI,ydgI,1383,1383,ydgI-folM,Amino acid transport and metabolism
+yqiC,yqiC,291,291,ubiK,Function unknown
+yhdA,yhdA,1941,1941,csrD,Signal transduction mechanisms
+ybeF,ybeF,954,954,ybeF,Transcription
+ydiM,ydiM,1215,1215,ydiM,Carbohydrate transport and metabolism
+accB,accB,471,471,accBC,Lipid transport and metabolism
+yhcM,yhcM,1128,1128,zapE,Function unknown
+hscC,hscC,1671,1671,hscC,"Posttranslational modification, protein turnover, chaperones"
+ydiF,ydiF,1596,1596,ydiFO,Lipid transport and metabolism
+trxA,trxA,330,330,trxA,"Posttranslational modification, protein turnover, chaperones"
+yraL,yraL,861,861,rsmI,Function unknown
+abrB,abrB,1047,1047,abrB,Function unknown
+ydiS,ydiS,1290,1290,ydiQRST-fadK,Energy production and conversion
+yhgN,yhgN,594,594,yhgN,"Intracellular trafficking, secretion, and vesicular transport"
+yraR,yraR,636,636,yraR,Carbohydrate transport and metabolism
+ybgQ,ybgQ,2448,2448,ybgQPO,Cell wall/membrane/envelope biogenesis
+yncC,yncC,666,666,mcbR,Transcription
+nadC,nadC,894,894,nadC,Coenzyme transport and metabolism
+yhbP,yhbP,444,444,yhbP,Function unknown
+mazE,mazE,249,249,relA-mazEFG,Transcription
+tam,tam,759,759,lsrACDBFG-tam,Function unknown
+yhbT,yhbT,525,525,yhbTS,Lipid transport and metabolism
+panD,panD,381,381,panD,Coenzyme transport and metabolism
+yneH,glsB,927,927,glsB-yneG,Amino acid transport and metabolism
+mazG,mazG,792,792,relA-mazEFG,Function unknown
+ada,ada,1065,1065,ada-alkB,Nucleotide transport and metabolism
+yifM_2,yifM_2,0,0,yifM_2,Function unknown
+nohA,nohA,528,528,nohA-ydfN-tfaQ,No COG Annotation
+ygeQ,ygeQ,1137,1137,ygeQ,No COG Annotation
+ygiS,ygiS,1608,1608,ygiS,Amino acid transport and metabolism
+metF,metF,891,891,metF,Amino acid transport and metabolism
+yagK,yagK,627,627,yagK,Function unknown
+deoA,deoA,1323,1323,deoCABD,Nucleotide transport and metabolism
+glnH,glnH,747,747,glnHPQ,Amino acid transport and metabolism
+dksA,dksA,456,456,sfsA-dksA-gluQ,Signal transduction mechanisms
+dam,dam,837,837,aroKB-damX-dam-rpe-gph-trpS,"Replication, recombination and repair"
+deoB,deoB,1224,1224,deoCABD,Carbohydrate transport and metabolism
+hcaT,hcaT,1140,1140,hcaT,No COG Annotation
+phoA,phoA,1416,1416,phoA-psiF,Inorganic ion transport and metabolism
+thrU,tufB,1185,1185,thrU-tyrU-glyT-thrT-tufB,"Translation, ribosomal structure and biogenesis"
+lon,lon,2355,2355,clpPX-lon,"Posttranslational modification, protein turnover, chaperones"
+ygiU,ygiU,297,297,mqsRA,Function unknown
+yecF,yecF,225,225,yecF,Function unknown
+pyrC,pyrC,1047,1047,pyrC,Nucleotide transport and metabolism
+umuD,umuD,420,420,umuDC,Transcription
+ligA,ligA,2016,2016,ligA-ypeB,"Replication, recombination and repair"
+trpL,trpL,45,45,trpLEDCBA,No COG Annotation
+parC,parC,2259,2259,parC,"Replication, recombination and repair"
+trmE,trmE,1365,1365,mnmE,Function unknown
+yadR,yadR,345,345,erpA,Function unknown
+emrA,emrA,1173,1173,mprA-emrAB,Defense mechanisms
+ybaB,ybaB,330,330,ybaB-recR,Function unknown
+insA_1,insA_1,276,276,insAB-1A-1B-1,"Replication, recombination and repair"
+ybaA,ybaA,354,354,ybaA,Function unknown
+yajO,yajO,975,975,xseB-ispA-dxs-yajO,Energy production and conversion
+cdaR,cdaR,1158,1158,cdaR,Transcription
+ylaB,ylaB,1551,1551,pdeB,Signal transduction mechanisms
+adrA,yaiC,1116,1116,dgcC,Signal transduction mechanisms
+ylaC,ylaC,471,471,ylaC,Function unknown
+ppiD,ppiD,1872,1872,ppiD,"Posttranslational modification, protein turnover, chaperones"
+ybaK,ybaK,480,480,ybaK,Function unknown
+ybaV,ybaV,372,372,ybaV,"Replication, recombination and repair"
+ylbG,ylbG_1,357,357,ylbG,No COG Annotation
+yafM,rayT,498,498,rayT,"Replication, recombination and repair"
+yagT,yagT,690,690,paoABCD,Energy production and conversion
+uxuR,uxuR,774,774,uxuR,Transcription
+yahC,yahC,498,498,yahC,Function unknown
+ykiA,ykiA,342,342,ykiA,No COG Annotation
+b0332,b0332,0,0,b0332,Function unknown
+proS,proS,1719,1719,proS,"Translation, ribosomal structure and biogenesis"
+gadX,gadX,825,825,gadAXW,Transcription
+deoD,deoD,720,720,deoCABD,Nucleotide transport and metabolism
+nanT,nanT,1491,1491,nanATEK-yhcH,Carbohydrate transport and metabolism
+asnS,asnS,1401,1401,asnS,"Translation, ribosomal structure and biogenesis"
+mutM,mutM,810,810,yicR-rpmBG-mutM,"Replication, recombination and repair"
+yodB,yodB,531,531,yodB,Energy production and conversion
+uhpT,uhpT,1392,1392,uhpT,Carbohydrate transport and metabolism
+mfd,mfd,3447,3447,mfd,"Replication, recombination and repair"
+xylE,xylE,1476,1476,xylE,Carbohydrate transport and metabolism
+yeeJ,yeeJ,7077,7077,yeeJ,Function unknown
+uhpA,uhpA,591,591,ivbL-ilvBN-uhpABC,Signal transduction mechanisms
+pheM,pheM,45,45,thrS-infC-rpmI-rplT-pheMST-ihfA,No COG Annotation
+yjiW,yjiW,342,342,symE,"Translation, ribosomal structure and biogenesis"
+yeeU,yeeU,369,369,yeeRST-cbeA-cbtA-yeeW,Function unknown
+ydcI,ydcI,924,924,ydcI,Transcription
+selD,selD,1044,1044,ydjA-selD-topB,Amino acid transport and metabolism
+ykgH,ykgH,669,669,ykgH,No COG Annotation
+yeiT,yeiT,1239,1239,preTA,Amino acid transport and metabolism
+hisS,hisS,1275,1275,hisS,"Translation, ribosomal structure and biogenesis"
+yeiP,yeiP,573,573,yeiP,"Translation, ribosomal structure and biogenesis"
+ychJ,ychJ,459,459,ychJ,Function unknown
+alaS,alaS,2631,2631,alaS,"Translation, ribosomal structure and biogenesis"
+yagB,yagB,309,309,yagAB-insX,No COG Annotation
+b1331,insH4,1017,1017,insH-4,"Replication, recombination and repair"
+yciC,yciC,744,744,yciCB,Function unknown
+selA,selA,1392,1392,selAB,Amino acid transport and metabolism
+yagM,yagM,855,855,yagML,Function unknown
+sieB,sieB,489,489,sieB,No COG Annotation
+folX,folX,363,363,folX-yfcH,Coenzyme transport and metabolism
+ybgD,ybgD,567,567,ybgD,No COG Annotation
+glnU,glnU,0,0,glnU,tRNA
+grxA,grxA,258,258,grxA,"Posttranslational modification, protein turnover, chaperones"
+ydfH,rspR,687,687,ydfH,Transcription
+ybhC,ybhC,1284,1284,ybhC,Carbohydrate transport and metabolism
+glnW,glnW,0,0,glnW,tRNA
+osmE,osmE,339,339,osmE,Transcription
+ynfE,ynfE,2427,2427,ynfEFGH-dmsD,Energy production and conversion
+fiu,fiu,2283,2283,fiu,Inorganic ion transport and metabolism
+prpR,prpR,1587,1587,prpR,Transcription
+yfaL,yfaL,3753,3753,yfaL,Cell wall/membrane/envelope biogenesis
+pyrH,pyrH,726,726,pyrH,Nucleotide transport and metabolism
+ybiO,ybiO,2226,2226,ybiO,Cell wall/membrane/envelope biogenesis
+serX,serX,0,0,serX,tRNA
+pdxK,pdxK,852,852,pdxK,Coenzyme transport and metabolism
+psiF,psiF,321,321,phoA-psiF,Function unknown
+ydhQ,ydhQ,1257,1257,ydhQ,Cell wall/membrane/envelope biogenesis
+ybjS,ybjS,1014,1014,ybjS,Cell wall/membrane/envelope biogenesis
+glnK,glnK,339,339,glnK-amtB,Amino acid transport and metabolism
+ribB,ribB,654,654,sroG-ribB,Coenzyme transport and metabolism
+serU,serU,0,0,serU,tRNA
+hcp,hcp,1653,1653,hcp-hcr-poxB-ltaE-ybjT,Energy production and conversion
+gcl,gcl,1782,1782,gcl-hyi-glxR-ybbW-allB-ybbY-glxK,Function unknown
+ggt,ggt,1743,1743,ggt,Amino acid transport and metabolism
+yeeO,yeeO,1488,1488,yeeO,Defense mechanisms
+ybjE,ybjE,900,900,lysO,Function unknown
+ykfJ,ykfJ,207,207,ykfJ-prfH,No COG Annotation
+b0373,insE2,300,300,insEF-2E-2F-2,"Replication, recombination and repair"
+yahM,yahM,246,246,yahM,No COG Annotation
+lacI,lacI,1083,1083,mhpR-lacI,Transcription
+hsdM,hsdM,1590,1590,hsdRMS,Defense mechanisms
+dsdC,dsdC,936,936,dsdC,Transcription
+cmk,cmk,684,684,cmk-rpsA-ihfB,Nucleotide transport and metabolism
+fliY,fliY,801,801,fliAZ-tcyJ,Amino acid transport and metabolism
+pyrB,pyrB,936,936,pyrLBI,Nucleotide transport and metabolism
+malI,malI,1029,1029,malI,Transcription
+ymgC,ymgC,249,249,ycgZ-ymgA-ariR-ymgC,Function unknown
+galP,galP,1395,1395,galP,Carbohydrate transport and metabolism
+panE,panE,912,912,panE-yajL,Coenzyme transport and metabolism
+rpsT,rpsT,264,264,rpsT,"Translation, ribosomal structure and biogenesis"
+tolA,tolA,1266,1266,ybgC-tolQRA,Cell wall/membrane/envelope biogenesis
+ubiG,ubiG,723,723,ubiG,Coenzyme transport and metabolism
+yhjY,yhjY,699,699,yhjY,Cell motility
+phoB,phoB,690,690,phoBR,Signal transduction mechanisms
+priA,priA,2199,2199,priA,"Replication, recombination and repair"
+clpP,clpP,624,624,clpPX-lon,"Posttranslational modification, protein turnover, chaperones"
+yohD,yohD,579,579,yohD,Function unknown
+yeaH,yeaH,1284,1284,yeaGH,Function unknown
+yohJ,yohJ,399,399,yohJK,Function unknown
+ssb,ssb,537,537,ssb,"Replication, recombination and repair"
+cysS,cysS,1386,1386,cysS,"Translation, ribosomal structure and biogenesis"
+insA_2,insA_2,276,276,insAB-2A-2B-2-afuBC,"Replication, recombination and repair"
+mraZ,mraZ,459,459,mraZ-rsmH-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC,Function unknown
+rhlB,rhlB,1266,1266,rhlB,"Replication, recombination and repair"
+yccA,yccA,660,660,yccA,Function unknown
+asd,asd,1104,1104,asd,Amino acid transport and metabolism
+pspB,pspB,225,225,pspABCDE,Function unknown
+hdeD,hdeD,573,573,hdeD,Function unknown
+solA,solA,1119,1119,solA-yceO,Amino acid transport and metabolism
+yhjC,yhjC,900,900,yhjC,Transcription
+lysU,lysU,1518,1518,lysU,"Translation, ribosomal structure and biogenesis"
+spr,mepS,567,567,mepS,Cell wall/membrane/envelope biogenesis
+skp,skp,486,486,bamA-skp-lpxD-fabZ-lpxAB-rnhB-dnaE,Cell wall/membrane/envelope biogenesis
+yfbJ,yfbJ,387,387,arnBCADTEF,Amino acid transport and metabolism
+tgt,tgt,1128,1128,tgt-yajC-secDF,"Translation, ribosomal structure and biogenesis"
+elaD,elaD,1212,1212,elaD,"Posttranslational modification, protein turnover, chaperones"
+hupB,hupB,273,273,hupB,"Replication, recombination and repair"
+yfbR,yfbR,600,600,alaA-yfbR,Function unknown
+dnaX,dnaX,1932,1932,dnaX,"Replication, recombination and repair"
+yfcC,yfcC,1521,1521,yfcC,Function unknown
+rluC,rluC,960,960,rluC,"Translation, ribosomal structure and biogenesis"
+intS,intS,1158,1158,intS,"Replication, recombination and repair"
+cca,cca,1239,1239,ygiM-cca,"Translation, ribosomal structure and biogenesis"
+b2394,insL3,1113,1113,insL-3,"Replication, recombination and repair"
+hupA,hupA,273,273,hupA,"Replication, recombination and repair"
+hyfR,hyfR,2013,2013,hyfABCDEFGHIJR-focB,Transcription
+dkgB,dkgB,804,804,dkgB,Function unknown
+yiiF,yiiF,219,219,yiiF,Function unknown
+yaiI,yaiI,459,459,yaiI,Function unknown
+ybaN,ybaN,378,378,ybaN,Function unknown
+ybaP,ybaP,795,795,ybaP,Function unknown
+yagJ,yagJ,828,828,yagJ,No COG Annotation
+allS,allS,927,927,allS,Transcription
+ychH,ychH,279,279,ychH,Function unknown
+ydcK,ydcK,981,981,ydcK,Function unknown
+yfbE,yfbE,1140,1140,arnBCADTEF,Amino acid transport and metabolism
+allD,allD,1050,1050,allDCE,Energy production and conversion
+eco,eco,489,489,eco,Function unknown
+dsbG,dsbG,747,747,dsbG,"Posttranslational modification, protein turnover, chaperones"
+polA,polA,2787,2787,polA,"Replication, recombination and repair"
+cbpA,cbpA,921,921,cbpAM,"Posttranslational modification, protein turnover, chaperones"
+treF,treF,1650,1650,treF,Carbohydrate transport and metabolism
+borD,borD,294,294,borD,Function unknown
+yhgE,yhgE,1725,1725,yhgE,Function unknown
+marC,marC,666,666,marC,"Intracellular trafficking, secretion, and vesicular transport"
+yaaW,yaaW,714,714,yaaW,Function unknown
+slyA,slyA,435,435,slyA,Transcription
+priC,priC,528,528,priC-ybaM,"Replication, recombination and repair"
+yhiL,yhiL,1194,1194,yhiK,No COG Annotation
+syd,syd,546,546,syd,"Cell cycle control, cell division, chromosome partitioning"
+hdeA,hdeA,333,333,hdeAB-yhiD,"Posttranslational modification, protein turnover, chaperones"
+nfrB,nfrB,2238,2238,nfrBA,Function unknown
+yhjB,yhjB,603,603,yhjB,Transcription
+b0255,insN_1,258,258,insN_1,No COG Annotation
+yhjR,yhjR,189,189,yhjR,Function unknown
+yagE,yagE,909,909,yagEF,Amino acid transport and metabolism
+yiaF,yiaF,711,711,yiaF,Function unknown
+b0540,insE3,300,300,insE-3EF-3F-3,"Replication, recombination and repair"
+yiaJ,yiaJ,849,849,yiaJ,Transcription
+yfeY,yfeY,576,576,yfeYX,Function unknown
+csiE,csiE,1281,1281,csiE,No COG Annotation
+ycgE,ycgE,732,732,bluR,Transcription
+bcsE,bcsE,1572,1572,bcsEFG,Function unknown
+ykgE,ykgE,720,720,ykgEFG,Energy production and conversion
+yiaG,yiaG,291,291,yiaG,Transcription
+yahK,yahK,1050,1050,yahK,Energy production and conversion
+yiaU,yiaU,975,975,yiaU,Transcription
+ybaO,ybaO,459,459,decR,Transcription
+pgmI,gpmI,1542,1542,gpmI,Glycolisis
+cueR,cueR,408,408,cueR,Transcription
+yidL,yidL,894,894,yidL,Transcription
+allR,allR,816,816,allR,Transcription
+yidS,yidS,1065,1065,cbrA,Energy production and conversion
+sfmC,sfmC,693,693,sfmCD,"Posttranslational modification, protein turnover, chaperones"
+yidI,yidI,450,450,yidI,Function unknown
+b0663,b0663,450,450,b0663,Putative RNA
+yaiB,yaiB,261,261,iraP,Signal transduction mechanisms
+ubiC,ubiC,498,498,ubiCA,Coenzyme transport and metabolism
+bolA,bolA,318,318,bolA,Signal transduction mechanisms
+ybhJ,ybhJ,2262,2262,ybhJ,Energy production and conversion
+ompX,ompX,516,516,ompX,Cell wall/membrane/envelope biogenesis
+pqiA,pqiA,1254,1254,pqiABC,Function unknown
+yedP,yedP,816,816,yedP,Function unknown
+ymcE,ymcE,231,231,ymcE-gnsA,No COG Annotation
+atoS,atoS,1827,1827,atoSC,Signal transduction mechanisms
+eutS,eutS,336,336,eutSPQTDM,Amino acid transport and metabolism
+yfjP,yfjP,864,864,yfjPQ,Function unknown
+ypfG,ypfG,1044,1044,ypfG,Function unknown
+yfjR,yfjR,702,702,yfjR-ypjK-yfjST,Transcription
+yffH,nudK,576,576,nudK,Function unknown

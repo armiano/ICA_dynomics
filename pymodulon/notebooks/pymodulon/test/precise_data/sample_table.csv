@@ -1,0 +1,37 @@
+sample_id,project,condition,contact,library creator,run_date,Strain Description,Strain,Base Media,Carbon Source (g/L),Temperature (C),pH,Antibiotic,Culture Type,Evolved Sample,DOI,Public
+Cr_1,Cr,5uM_Cr,Hasty lab,Alon lab,4/17/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cr_2,Cr,5uM_Cr,Hasty lab,Alon lab,4/17/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cr_3,Cr,5uM_Cr,Hasty lab,Alon lab,10/2/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cr_4,Cr,5uM_Cr,Hasty lab,Alon lab,10/2/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cr_5,Cr,5uM_Cr,Hasty lab,Alon lab,9/5/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cr_6,Cr,5uM_Cr,Hasty lab,Alon lab,9/5/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Fe_1,Fe,5uM_Fe,Hasty lab,Alon lab,10/2/13,Escherichia coli K-12 MG1655 del_fur,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Fe_2,Fe,5uM_Fe,Hasty lab,Alon lab,10/2/13,Escherichia coli K-12 MG1655 del_fur,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Fe_3,Fe,5uM_Fe,Hasty lab,Alon lab,9/5/13,Escherichia coli K-12 MG1655 del_fur,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Fe_4,Fe,5uM_Fe,Hasty lab,Alon lab,9/5/13,Escherichia coli K-12 MG1655 del_fur,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Fe_5,Fe,5uM_Fe,Hasty lab,Alon lab,7/15/14,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Fe_6,Fe,5uM_Fe,Hasty lab,Alon lab,7/15/14,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cd_1,Cd,0.04uM_Cd,Hasty lab,Alon lab,7/17/14,Escherichia coli K-12 MG1655 del_gadX,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cd_2,Cd,0.04uM_Cd,Hasty lab,Alon lab,7/17/14,Escherichia coli K-12 MG1655 del_gadX,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cd_3,Cd,0.04uM_Cd,Hasty lab,Alon lab,7/16/14,Escherichia coli K-12 MG1655 del_gadW,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cd_4,Cd,0.04uM_Cd,Hasty lab,Alon lab,7/16/14,Escherichia coli K-12 MG1655 del_gadW,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cd_5,Cd,0.04uM_Cd,Hasty lab,Alon lab,7/16/14,Escherichia coli K-12 MG1655 del_gadE,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cd_6,Cd,0.04uM_Cd,Hasty lab,Alon lab,7/16/14,Escherichia coli K-12 MG1655 del_gadE,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Zn_1,Zn,0.765uM_Zn,Hasty lab,Alon lab,8/27/14,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Zn_2,Zn,0.765uM_Zn,Hasty lab,Alon lab,8/27/14,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Zn_3,Zn,0.765uM_Zn,Hasty lab,Alon lab,9/4/14,Escherichia coli K-12 MG1655 del_oxyR,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Zn_4,Zn,0.765uM_Zn,Hasty lab,Alon lab,9/4/14,Escherichia coli K-12 MG1655 del_oxyR,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Zn_5,Zn,0.765uM_Zn,Hasty lab,Alon lab,9/4/14,Escherichia coli K-12 MG1655 del_soxR,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Zn_6,Zn,0.765uM_Zn,Hasty lab,Alon lab,9/4/14,Escherichia coli K-12 MG1655 del_soxR,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cu_1,Cu,2uM_Cu,Hasty lab,Alon lab,9/18/14,Escherichia coli K-12 MG1655 del_soxS,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cu_2,Cu,2uM_Cu,Hasty lab,Alon lab,9/18/14,Escherichia coli K-12 MG1655 del_soxS,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cu_3,Cu,2uM_Cu,Hasty lab,Alon lab,4/18/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cu_4,Cu,2uM_Cu,Hasty lab,Alon lab,4/18/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cu_5,Cu,2uM_Cu,Hasty lab,Alon lab,4/17/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Cu_6,Cu,2uM_Cu,Hasty lab,Alon lab,4/17/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Pb_1,Pb,0.14uM_Pb,Hasty lab,Alon lab,4/17/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Pb_2,Pb,0.14uM_Pb,Hasty lab,Alon lab,4/17/13,Escherichia coli K-12 MG1655,MG1655,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Pb_3,Pb,0.14uM_Pb,Hasty lab,Alon lab,2/16/16,Escherichia coli K-12 BW25113 del_nac,BW25113,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Pb_4,Pb,0.14uM_Pb,Hasty lab,Alon lab,2/16/16,Escherichia coli K-12 BW25113 del_nac,BW25113,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Pb_5,Pb,0.14uM_Pb,Hasty lab,Alon lab,2/16/16,Escherichia coli K-12 BW25113 del_nac,BW25113,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
+Pb_6,Pb,0.14uM_Pb,Hasty lab,Alon lab,2/16/16,Escherichia coli K-12 BW25113 del_nac,BW25113,HM9 minimal media,glucose(2),37,7,kanamycin,Microfluidics,No,https://doi.org/10.1073/pnas.1913003117,1
