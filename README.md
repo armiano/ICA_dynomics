@@ -6,7 +6,6 @@ This repository contains all the scripts and processed data for the analyses pre
 
 ## Contents
 
-- `original Dynomics data/`: This folder contains the original experimental data in CSV format, after background subtraction and normalization.
 - `Dynomics_data_log2-multiplePoints_final.ipynb`: A Jupyter Notebook that takes the original CSV files as input and transforms them into the log2 data tables ready for ICA processing.
 - `precise-db/`: This folder contains the scripts to run ICA found in the external precise-db repository.
 - `pymodulon/`: This folder contains scripts for analyzing the results from the ICA run, utilizing scripts from the external pymodulon repository.
@@ -14,7 +13,7 @@ This repository contains all the scripts and processed data for the analyses pre
 ## Workflow
 
 1. **Data Preprocessing**
-   - Input: Original CSV files in `original_data/`
+   - Input: Original CSV files of experimental data (post background subtraction and smoothing). 
    - Script: `Dynomics_data_log2-multiplePoints_final.ipynb`
    - Output: Log2 data tables
 2. **ICA Processing**
