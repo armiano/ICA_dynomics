@@ -6,14 +6,14 @@ This repository contains all the scripts and processed data for the analyses pre
 
 ## Contents
 
-- `Dynomics_data_log2-multiplePoints_final.ipynb`: A Jupyter Notebook that takes the original CSV files as input and transforms them into the log2 data tables ready for ICA processing.
-- `precise-db/`: This folder contains the scripts to run ICA found in the external precise-db repository.
-- `pymodulon/`: This folder contains scripts for analyzing the results from the ICA run, utilizing scripts from the external pymodulon repository.
+- `Dynomics_data_log2-multiplePoints_final.ipynb`: A Jupyter Notebook that takes the original data CSV files (post background subtraction and smoothing) as input and transforms them into the log2 data tables ready for ICA processing.
+- `precise-db/`: This folder contains the scripts to run ICA cloned and modified from the original source code from the `precise-db/` repository.
+- `pymodulon/`: This folder contains scripts for analyzing and visualizing the results of the ICA run. The scripts are modified from the original ones present int the `pymodulon/` repository.
 
 ## Workflow
 
 1. **Data Preprocessing**
-   - Input: Original CSV files of experimental data (post background subtraction and smoothing). 
+   - Input: Original CSV files of experimental data (post background subtraction and smoothing). Rows represent the signal from each different cell type containing a certaing promoter driving GFP. Columns are time points. 
    - Script: `Dynomics_data_log2-multiplePoints_final.ipynb`
    - Output: Log2 data tables
 2. **ICA Processing**
@@ -24,12 +24,16 @@ This repository contains all the scripts and processed data for the analyses pre
    - Input: ICA results
    - Scripts: Code in the `pymodulon/` folder
    - Output: Analysis results
+  
+## Demo
+
+Input for `Dynomics_data_log2-multiplePoints_final.ipynb`: Demo_data_heavy_metal.csv
 
 ## Dependencies
 
-- Python
+- Python (3.9 and above)
 - Jupyter Notebook
-- Additional Python packages: pandas, numpy (Make sure to install these before running the scripts)
+- Additional Python packages: pandas, numpy, matplotlib, scipy. See external repositories listed below for additional packages needed. 
 
 ## External Repositories
 
