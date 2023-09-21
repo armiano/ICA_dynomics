@@ -22,7 +22,7 @@ This repository contains all the scripts and processed data for the analyses pre
    - Output: ICA results
 3. **ICA Results Analysis**
    - Input: ICA results
-   - Scripts: Code in the `pymodulon/` folder
+   - Scripts: Code in the `pymodulon/` as well as python script `iModulon_identification.ipynb`
    - Output: Analysis results
   
 ## Demo
