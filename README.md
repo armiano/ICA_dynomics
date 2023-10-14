@@ -48,5 +48,5 @@ Please visit these links to get the referenced scripts.
 
 ## Contact
 
-For any questions or feedback, please reach out to Arianna Miano at armiano@ucsd.edu
+For any questions or feedback, please reach out to Arianna Miano at armiano@ucsd.edu.
 
